@@ -1,0 +1,156 @@
+{
+  "title": "BurariTessenTorimonocho",
+  "index": "82",
+  "framesOrder": [
+    "0000e6a1",
+    "0000e6e3",
+    "0000e6cf",
+    "0000e6a4",
+    "0000e6ae",
+    "0000e6b1",
+    "0000e6c7",
+    "0000e6e2",
+    "0000e6db",
+    "0000e6c6",
+    "0000e6f3",
+    "0000e6f8",
+    "0000e6b9",
+    "0000e6bf"
+  ],
+  "textOrder": [
+    "0000e6bd",
+    "0000e6a5",
+    "0000e6ee",
+    "0000e6c3",
+    "0000e6a8",
+    "0000e6c1",
+    "0000e6e4",
+    "0000e6dd",
+    "0000e6ec",
+    "0000e6bb",
+    "0000e6b4",
+    "0000e6fc",
+    "0000e6c8",
+    "0000e6ea",
+    "0000e6bc",
+    "0000e6d6",
+    "0000e6c4",
+    "0000e6d1",
+    "0000e6f4",
+    "0000e6ad",
+    "0000e6d2",
+    "0000e6a9",
+    "0000e6aa",
+    "0000e6c2",
+    "0000e6e0",
+    "0000e6e5",
+    "0000e6b2",
+    "0000e6a7",
+    "0000e6ce",
+    "0000e6d9",
+    "0000e6f0"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0000e6a1",
+        "textsInFrame": [
+          "0000e6bd"
+        ]
+      },
+      {
+        "frameId": "0000e6e3",
+        "textsInFrame": [
+          "0000e6a5",
+          "0000e6ee"
+        ]
+      },
+      {
+        "frameId": "0000e6cf",
+        "textsInFrame": [
+          "0000e6c3",
+          "0000e6a8",
+          "0000e6c1"
+        ]
+      },
+      {
+        "frameId": "0000e6a4",
+        "textsInFrame": [
+          "0000e6e4",
+          "0000e6dd",
+          "0000e6ec",
+          "0000e6bb"
+        ]
+      },
+      {
+        "frameId": "0000e6ae",
+        "textsInFrame": [
+          "0000e6b4",
+          "0000e6fc"
+        ]
+      },
+      {
+        "frameId": "0000e6b1",
+        "textsInFrame": [
+          "0000e6c8",
+          "0000e6ea",
+          "0000e6bc",
+          "0000e6d6"
+        ]
+      },
+      {
+        "frameId": "0000e6c7",
+        "textsInFrame": [
+          "0000e6c4",
+          "0000e6d1",
+          "0000e6f4"
+        ]
+      },
+      {
+        "frameId": "0000e6e2",
+        "textsInFrame": [
+          "0000e6ad"
+        ]
+      },
+      {
+        "frameId": "0000e6db",
+        "textsInFrame": [
+          "0000e6d2",
+          "0000e6a9",
+          "0000e6aa",
+          "0000e6c2",
+          "0000e6e0"
+        ]
+      },
+      {
+        "frameId": "0000e6c6",
+        "textsInFrame": [
+          "0000e6e5",
+          "0000e6b2",
+          "0000e6a7",
+          "0000e6ce"
+        ]
+      },
+      {
+        "frameId": "0000e6f3",
+        "textsInFrame": [
+          "0000e6d9"
+        ]
+      },
+      {
+        "frameId": "0000e6f8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000e6b9",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000e6bf",
+        "textsInFrame": [
+          "0000e6f0"
+        ]
+      }
+    ]
+  }
+}

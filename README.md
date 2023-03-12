@@ -1,1 +1,1 @@
-# Manga109-rule-based-reading-order-estimation-tool
+# Manga109 Rule-based Reading Order Estimation Tool

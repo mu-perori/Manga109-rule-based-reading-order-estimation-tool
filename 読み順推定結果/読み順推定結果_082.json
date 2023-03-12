@@ -1,0 +1,65 @@
+{
+  "title": "MAD_STONE",
+  "index": "9",
+  "framesOrder": [
+    "00039161",
+    "0003915c",
+    "00039154",
+    "0003915f",
+    "0003915b",
+    "00039145",
+    "00039158"
+  ],
+  "textOrder": [
+    "00039150",
+    "00039156",
+    "0003915e",
+    "0003914b",
+    "00039147",
+    "00039155"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00039161",
+        "textsInFrame": [
+          "00039150"
+        ]
+      },
+      {
+        "frameId": "0003915c",
+        "textsInFrame": [
+          "00039156"
+        ]
+      },
+      {
+        "frameId": "00039154",
+        "textsInFrame": [
+          "0003915e"
+        ]
+      },
+      {
+        "frameId": "0003915f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003915b",
+        "textsInFrame": [
+          "0003914b"
+        ]
+      },
+      {
+        "frameId": "00039145",
+        "textsInFrame": [
+          "00039147"
+        ]
+      },
+      {
+        "frameId": "00039158",
+        "textsInFrame": [
+          "00039155"
+        ]
+      }
+    ]
+  }
+}

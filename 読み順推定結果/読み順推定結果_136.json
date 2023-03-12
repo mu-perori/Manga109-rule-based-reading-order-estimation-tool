@@ -1,0 +1,115 @@
+{
+  "title": "TsubasaNoKioku",
+  "index": "4",
+  "framesOrder": [
+    "00073204",
+    "00073207",
+    "00073214",
+    "0007321b",
+    "00073209",
+    "00073220",
+    "0007320d",
+    "0007320f",
+    "0007320e",
+    "00073225",
+    "00073221",
+    "00073215",
+    "00073216",
+    "000731fd",
+    "0007320c"
+  ],
+  "textOrder": [
+    "00073208",
+    "00073202",
+    "000731ff",
+    "00073217",
+    "00073211",
+    "0007321e",
+    "00073205",
+    "00073223",
+    "00073212",
+    "000731fc"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00073204",
+        "textsInFrame": [
+          "00073208"
+        ]
+      },
+      {
+        "frameId": "00073207",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00073214",
+        "textsInFrame": [
+          "00073202"
+        ]
+      },
+      {
+        "frameId": "0007321b",
+        "textsInFrame": [
+          "000731ff",
+          "00073217"
+        ]
+      },
+      {
+        "frameId": "00073209",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00073220",
+        "textsInFrame": [
+          "00073211",
+          "0007321e"
+        ]
+      },
+      {
+        "frameId": "0007320d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007320f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007320e",
+        "textsInFrame": [
+          "00073205"
+        ]
+      },
+      {
+        "frameId": "00073225",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00073221",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00073215",
+        "textsInFrame": [
+          "00073223"
+        ]
+      },
+      {
+        "frameId": "00073216",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000731fd",
+        "textsInFrame": [
+          "00073212"
+        ]
+      },
+      {
+        "frameId": "0007320c",
+        "textsInFrame": [
+          "000731fc"
+        ]
+      }
+    ]
+  }
+}

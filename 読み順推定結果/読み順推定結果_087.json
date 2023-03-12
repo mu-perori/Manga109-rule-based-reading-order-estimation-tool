@@ -1,0 +1,73 @@
+{
+  "title": "SeisinkiVulnus",
+  "index": "29",
+  "framesOrder": [
+    "00060edb",
+    "00060ecb",
+    "00060ed2",
+    "00060ed6",
+    "00060ee0",
+    "00060ed0",
+    "00060ee3",
+    "00060ede",
+    "00060ed3",
+    "00060ed1"
+  ],
+  "textOrder": [
+    "00060ecf",
+    "00060edf",
+    "00060ee1",
+    "00060ee8"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00060edb",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00060ecb",
+        "textsInFrame": [
+          "00060ecf"
+        ]
+      },
+      {
+        "frameId": "00060ed2",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00060ed6",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00060ee0",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00060ed0",
+        "textsInFrame": [
+          "00060edf"
+        ]
+      },
+      {
+        "frameId": "00060ee3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00060ede",
+        "textsInFrame": [
+          "00060ee1",
+          "00060ee8"
+        ]
+      },
+      {
+        "frameId": "00060ed3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00060ed1",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

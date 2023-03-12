@@ -1,0 +1,77 @@
+{
+  "title": "Count3DeKimeteAgeru",
+  "index": "91",
+  "framesOrder": [
+    "00010f91",
+    "00010f99",
+    "00010f8b",
+    "00010f9d",
+    "00010f93",
+    "00010f87",
+    "00010fa8",
+    "00010f95"
+  ],
+  "textOrder": [
+    "00010f8d",
+    "00010f96",
+    "00010fa5",
+    "00010f89",
+    "00010f9a",
+    "00010f9b",
+    "00010f8c",
+    "00010fa3",
+    "00010fa6",
+    "00010f9f"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00010f91",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00010f99",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00010f8b",
+        "textsInFrame": [
+          "00010f8d",
+          "00010f96"
+        ]
+      },
+      {
+        "frameId": "00010f9d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00010f93",
+        "textsInFrame": [
+          "00010fa5"
+        ]
+      },
+      {
+        "frameId": "00010f87",
+        "textsInFrame": [
+          "00010f89",
+          "00010f9a"
+        ]
+      },
+      {
+        "frameId": "00010fa8",
+        "textsInFrame": [
+          "00010f9b",
+          "00010f8c",
+          "00010fa3"
+        ]
+      },
+      {
+        "frameId": "00010f95",
+        "textsInFrame": [
+          "00010fa6",
+          "00010f9f"
+        ]
+      }
+    ]
+  }
+}

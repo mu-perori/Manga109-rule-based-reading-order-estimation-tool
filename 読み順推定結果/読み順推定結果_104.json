@@ -1,0 +1,135 @@
+{
+  "title": "YoumaKourin",
+  "index": "24",
+  "framesOrder": [
+    "0007d9b2",
+    "0007d9bc",
+    "0007d98a",
+    "0007d9b3",
+    "0007d9be",
+    "0007d995",
+    "0007d997",
+    "0007d9c0",
+    "0007d9a4",
+    "0007d9a5",
+    "0007d9c4",
+    "0007d984",
+    "0007d9a1"
+  ],
+  "textOrder": [
+    "0007d9b8",
+    "0007d9b4",
+    "0007d988",
+    "0007d9c1",
+    "0007d9af",
+    "0007d9cc",
+    "0007d987",
+    "0007d9c9",
+    "0007d9a3",
+    "0007d989",
+    "0007d9a8",
+    "0007d9aa",
+    "0007d9c3",
+    "0007d9c6",
+    "0007d993",
+    "0007d99c",
+    "0007d9a9",
+    "0007d985",
+    "0007d9b9",
+    "0007d9a2",
+    "0007d9b0",
+    "0007d99e",
+    "0007d9b1"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007d9b2",
+        "textsInFrame": [
+          "0007d9b8",
+          "0007d9b4"
+        ]
+      },
+      {
+        "frameId": "0007d9bc",
+        "textsInFrame": [
+          "0007d988",
+          "0007d9c1"
+        ]
+      },
+      {
+        "frameId": "0007d98a",
+        "textsInFrame": [
+          "0007d9af",
+          "0007d9cc",
+          "0007d987"
+        ]
+      },
+      {
+        "frameId": "0007d9b3",
+        "textsInFrame": [
+          "0007d9c9",
+          "0007d9a3"
+        ]
+      },
+      {
+        "frameId": "0007d9be",
+        "textsInFrame": [
+          "0007d989",
+          "0007d9a8"
+        ]
+      },
+      {
+        "frameId": "0007d995",
+        "textsInFrame": [
+          "0007d9aa"
+        ]
+      },
+      {
+        "frameId": "0007d997",
+        "textsInFrame": [
+          "0007d9c3",
+          "0007d9c6"
+        ]
+      },
+      {
+        "frameId": "0007d9c0",
+        "textsInFrame": [
+          "0007d993"
+        ]
+      },
+      {
+        "frameId": "0007d9a4",
+        "textsInFrame": [
+          "0007d99c",
+          "0007d9a9"
+        ]
+      },
+      {
+        "frameId": "0007d9a5",
+        "textsInFrame": [
+          "0007d985",
+          "0007d9b9"
+        ]
+      },
+      {
+        "frameId": "0007d9c4",
+        "textsInFrame": [
+          "0007d9a2",
+          "0007d9b0"
+        ]
+      },
+      {
+        "frameId": "0007d984",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007d9a1",
+        "textsInFrame": [
+          "0007d99e",
+          "0007d9b1"
+        ]
+      }
+    ]
+  }
+}

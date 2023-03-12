@@ -1,0 +1,97 @@
+{
+  "title": "KuroidoGanka",
+  "index": "86",
+  "framesOrder": [
+    "00033a3b",
+    "00033a37",
+    "00033a16",
+    "00033a27",
+    "00033a28",
+    "00033a1e",
+    "00033a2f",
+    "00033a21",
+    "00033a19",
+    "00033a3a"
+  ],
+  "textOrder": [
+    "00033a1b",
+    "00033a34",
+    "00033a36",
+    "00033a26",
+    "00033a25",
+    "00033a20",
+    "00033a2d",
+    "00033a1a",
+    "00033a39",
+    "00033a31",
+    "00033a1d",
+    "00033a17",
+    "00033a24"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00033a3b",
+        "textsInFrame": [
+          "00033a1b"
+        ]
+      },
+      {
+        "frameId": "00033a37",
+        "textsInFrame": [
+          "00033a34"
+        ]
+      },
+      {
+        "frameId": "00033a16",
+        "textsInFrame": [
+          "00033a36"
+        ]
+      },
+      {
+        "frameId": "00033a27",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00033a28",
+        "textsInFrame": [
+          "00033a26",
+          "00033a25"
+        ]
+      },
+      {
+        "frameId": "00033a1e",
+        "textsInFrame": [
+          "00033a20"
+        ]
+      },
+      {
+        "frameId": "00033a2f",
+        "textsInFrame": [
+          "00033a2d",
+          "00033a1a"
+        ]
+      },
+      {
+        "frameId": "00033a21",
+        "textsInFrame": [
+          "00033a39",
+          "00033a31",
+          "00033a1d"
+        ]
+      },
+      {
+        "frameId": "00033a19",
+        "textsInFrame": [
+          "00033a17"
+        ]
+      },
+      {
+        "frameId": "00033a3a",
+        "textsInFrame": [
+          "00033a24"
+        ]
+      }
+    ]
+  }
+}

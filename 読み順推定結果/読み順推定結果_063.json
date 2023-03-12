@@ -1,0 +1,65 @@
+{
+  "title": "KyokugenCyclone",
+  "index": "49",
+  "framesOrder": [
+    "000346e0",
+    "0003470b",
+    "000346ec",
+    "000346fa",
+    "000346fe",
+    "000346f4"
+  ],
+  "textOrder": [
+    "000346f8",
+    "00034702",
+    "000346fb",
+    "0003470e",
+    "000346fd",
+    "00034700",
+    "000346f1",
+    "0003470a",
+    "00034706"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000346e0",
+        "textsInFrame": [
+          "000346f8",
+          "00034702"
+        ]
+      },
+      {
+        "frameId": "0003470b",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000346ec",
+        "textsInFrame": [
+          "000346fb",
+          "0003470e"
+        ]
+      },
+      {
+        "frameId": "000346fa",
+        "textsInFrame": [
+          "000346fd",
+          "00034700"
+        ]
+      },
+      {
+        "frameId": "000346fe",
+        "textsInFrame": [
+          "000346f1"
+        ]
+      },
+      {
+        "frameId": "000346f4",
+        "textsInFrame": [
+          "0003470a",
+          "00034706"
+        ]
+      }
+    ]
+  }
+}

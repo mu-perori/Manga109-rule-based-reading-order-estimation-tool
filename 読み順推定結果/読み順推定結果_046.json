@@ -1,0 +1,128 @@
+{
+  "title": "HanzaiKousyouninMinegishiEitarou",
+  "index": "16",
+  "framesOrder": [
+    "0001e9f3",
+    "0001ea09",
+    "0001ea0c",
+    "0001ea17",
+    "0001ea07",
+    "0001ea0d",
+    "0001ea05",
+    "0001e9ec",
+    "0001e9e8",
+    "0001e9e6",
+    "0001e9eb",
+    "0001e9ed",
+    "0001e9fe",
+    "0001e9f2"
+  ],
+  "textOrder": [
+    "0001e9f1",
+    "0001e9f0",
+    "0001ea06",
+    "0001ea19",
+    "0001e9e3",
+    "0001ea01",
+    "0001e9fb",
+    "0001ea00",
+    "0001e9f4",
+    "0001e9e5",
+    "0001ea0a",
+    "0001e9fd",
+    "0001e9f7",
+    "0001e9ef",
+    "0001ea11",
+    "0001e9ee",
+    "0001ea12"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0001e9f3",
+        "textsInFrame": [
+          "0001e9f1"
+        ]
+      },
+      {
+        "frameId": "0001ea09",
+        "textsInFrame": [
+          "0001e9f0"
+        ]
+      },
+      {
+        "frameId": "0001ea0c",
+        "textsInFrame": [
+          "0001ea06",
+          "0001ea19"
+        ]
+      },
+      {
+        "frameId": "0001ea17",
+        "textsInFrame": [
+          "0001e9e3"
+        ]
+      },
+      {
+        "frameId": "0001ea07",
+        "textsInFrame": [
+          "0001ea01"
+        ]
+      },
+      {
+        "frameId": "0001ea0d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001ea05",
+        "textsInFrame": [
+          "0001e9fb",
+          "0001ea00"
+        ]
+      },
+      {
+        "frameId": "0001e9ec",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001e9e8",
+        "textsInFrame": [
+          "0001e9f4"
+        ]
+      },
+      {
+        "frameId": "0001e9e6",
+        "textsInFrame": [
+          "0001e9e5",
+          "0001ea0a"
+        ]
+      },
+      {
+        "frameId": "0001e9eb",
+        "textsInFrame": [
+          "0001e9fd",
+          "0001e9f7"
+        ]
+      },
+      {
+        "frameId": "0001e9ed",
+        "textsInFrame": [
+          "0001e9ef"
+        ]
+      },
+      {
+        "frameId": "0001e9fe",
+        "textsInFrame": [
+          "0001ea11"
+        ]
+      },
+      {
+        "frameId": "0001e9f2",
+        "textsInFrame": [
+          "0001e9ee",
+          "0001ea12"
+        ]
+      }
+    ]
+  }
+}

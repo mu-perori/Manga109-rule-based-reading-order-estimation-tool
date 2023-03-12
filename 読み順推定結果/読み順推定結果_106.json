@@ -1,0 +1,92 @@
+{
+  "title": "MayaNoAkaiKutsu",
+  "index": "52",
+  "framesOrder": [
+    "0003da02",
+    "0003da15",
+    "0003da10",
+    "0003d9ff",
+    "0003da22",
+    "0003da25",
+    "0003da1e",
+    "0003da23",
+    "0003da08"
+  ],
+  "textOrder": [
+    "0003da26",
+    "0003da03",
+    "0003da1b",
+    "0003da14",
+    "0003da18",
+    "0003da13",
+    "0003da1c",
+    "0003da0b",
+    "0003da05",
+    "0003da0f",
+    "0003da20",
+    "0003da29",
+    "0003da21"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003da02",
+        "textsInFrame": [
+          "0003da26",
+          "0003da03",
+          "0003da1b"
+        ]
+      },
+      {
+        "frameId": "0003da15",
+        "textsInFrame": [
+          "0003da14"
+        ]
+      },
+      {
+        "frameId": "0003da10",
+        "textsInFrame": [
+          "0003da18"
+        ]
+      },
+      {
+        "frameId": "0003d9ff",
+        "textsInFrame": [
+          "0003da13",
+          "0003da1c"
+        ]
+      },
+      {
+        "frameId": "0003da22",
+        "textsInFrame": [
+          "0003da0b",
+          "0003da05"
+        ]
+      },
+      {
+        "frameId": "0003da25",
+        "textsInFrame": [
+          "0003da0f"
+        ]
+      },
+      {
+        "frameId": "0003da1e",
+        "textsInFrame": [
+          "0003da20"
+        ]
+      },
+      {
+        "frameId": "0003da23",
+        "textsInFrame": [
+          "0003da29"
+        ]
+      },
+      {
+        "frameId": "0003da08",
+        "textsInFrame": [
+          "0003da21"
+        ]
+      }
+    ]
+  }
+}

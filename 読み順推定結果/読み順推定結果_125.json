@@ -1,0 +1,162 @@
+{
+  "title": "WarewareHaOniDearu",
+  "index": "39",
+  "framesOrder": [
+    "00079e41",
+    "00079e31",
+    "00079e67",
+    "00079e50",
+    "00079e39",
+    "00079e38",
+    "00079e5b",
+    "00079e49",
+    "00079e46",
+    "00079e68",
+    "00079e69",
+    "00079e30",
+    "00079e53",
+    "00079e44",
+    "00079e4e",
+    "00079e4b",
+    "00079e70",
+    "00079e6b"
+  ],
+  "textOrder": [
+    "00079e4c",
+    "00079e56",
+    "00079e6c",
+    "00079e51",
+    "00079e3a",
+    "00079e55",
+    "00079e45",
+    "00079e40",
+    "00079e6a",
+    "00079e34",
+    "00079e3e",
+    "00079e6d",
+    "00079e3d",
+    "00079e4d",
+    "00079e33",
+    "00079e35",
+    "00079e5a",
+    "00079e5f",
+    "00079e5e",
+    "00079e57",
+    "00079e58",
+    "00079e5c",
+    "00079e63"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00079e41",
+        "textsInFrame": [
+          "00079e4c",
+          "00079e56",
+          "00079e6c"
+        ]
+      },
+      {
+        "frameId": "00079e31",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00079e67",
+        "textsInFrame": [
+          "00079e51"
+        ]
+      },
+      {
+        "frameId": "00079e50",
+        "textsInFrame": [
+          "00079e3a"
+        ]
+      },
+      {
+        "frameId": "00079e39",
+        "textsInFrame": [
+          "00079e55"
+        ]
+      },
+      {
+        "frameId": "00079e38",
+        "textsInFrame": [
+          "00079e45",
+          "00079e40"
+        ]
+      },
+      {
+        "frameId": "00079e5b",
+        "textsInFrame": [
+          "00079e6a",
+          "00079e34"
+        ]
+      },
+      {
+        "frameId": "00079e49",
+        "textsInFrame": [
+          "00079e3e"
+        ]
+      },
+      {
+        "frameId": "00079e46",
+        "textsInFrame": [
+          "00079e6d",
+          "00079e3d"
+        ]
+      },
+      {
+        "frameId": "00079e68",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00079e69",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00079e30",
+        "textsInFrame": [
+          "00079e4d",
+          "00079e33",
+          "00079e35"
+        ]
+      },
+      {
+        "frameId": "00079e53",
+        "textsInFrame": [
+          "00079e5a"
+        ]
+      },
+      {
+        "frameId": "00079e44",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00079e4e",
+        "textsInFrame": [
+          "00079e5f",
+          "00079e5e"
+        ]
+      },
+      {
+        "frameId": "00079e4b",
+        "textsInFrame": [
+          "00079e57"
+        ]
+      },
+      {
+        "frameId": "00079e70",
+        "textsInFrame": [
+          "00079e58"
+        ]
+      },
+      {
+        "frameId": "00079e6b",
+        "textsInFrame": [
+          "00079e5c",
+          "00079e63"
+        ]
+      }
+    ]
+  }
+}

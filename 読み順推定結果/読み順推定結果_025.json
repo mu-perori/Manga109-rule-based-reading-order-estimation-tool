@@ -1,0 +1,128 @@
+{
+  "title": "ByebyeC-BOY",
+  "index": "15",
+  "framesOrder": [
+    "0000ef8b",
+    "0000ef65",
+    "0000ef89",
+    "0000ef9e",
+    "0000ef8d",
+    "0000ef86",
+    "0000ef96",
+    "0000ef9c",
+    "0000ef84",
+    "0000ef64",
+    "0000efa4",
+    "0000ef9f",
+    "0000ef69",
+    "0000ef91",
+    "0000ef5e"
+  ],
+  "textOrder": [
+    "0000ef5d",
+    "0000ef6a",
+    "0000ef70",
+    "0000efa0",
+    "0000ef7f",
+    "0000ef71",
+    "0000efa5",
+    "0000ef98",
+    "0000ef74",
+    "0000ef72",
+    "0000ef76",
+    "0000ef95",
+    "0000ef93",
+    "0000ef94",
+    "0000ef61"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0000ef8b",
+        "textsInFrame": [
+          "0000ef5d"
+        ]
+      },
+      {
+        "frameId": "0000ef65",
+        "textsInFrame": [
+          "0000ef6a"
+        ]
+      },
+      {
+        "frameId": "0000ef89",
+        "textsInFrame": [
+          "0000ef70"
+        ]
+      },
+      {
+        "frameId": "0000ef9e",
+        "textsInFrame": [
+          "0000efa0"
+        ]
+      },
+      {
+        "frameId": "0000ef8d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000ef86",
+        "textsInFrame": [
+          "0000ef7f",
+          "0000ef71",
+          "0000efa5"
+        ]
+      },
+      {
+        "frameId": "0000ef96",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000ef9c",
+        "textsInFrame": [
+          "0000ef98"
+        ]
+      },
+      {
+        "frameId": "0000ef84",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000ef64",
+        "textsInFrame": [
+          "0000ef74"
+        ]
+      },
+      {
+        "frameId": "0000efa4",
+        "textsInFrame": [
+          "0000ef72"
+        ]
+      },
+      {
+        "frameId": "0000ef9f",
+        "textsInFrame": [
+          "0000ef76"
+        ]
+      },
+      {
+        "frameId": "0000ef69",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000ef91",
+        "textsInFrame": [
+          "0000ef95",
+          "0000ef93"
+        ]
+      },
+      {
+        "frameId": "0000ef5e",
+        "textsInFrame": [
+          "0000ef94",
+          "0000ef61"
+        ]
+      }
+    ]
+  }
+}

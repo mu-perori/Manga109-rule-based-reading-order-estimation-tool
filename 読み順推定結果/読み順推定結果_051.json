@@ -1,0 +1,73 @@
+{
+  "title": "Ningyoushi",
+  "index": "71",
+  "framesOrder": [
+    "0004d5b5",
+    "0004d5b3",
+    "0004d5ad",
+    "0004d5bb",
+    "0004d5bd",
+    "0004d5af",
+    "0004d5b7",
+    "0004d5b4"
+  ],
+  "textOrder": [
+    "0004d5ac",
+    "0004d5b9",
+    "0004d5ae",
+    "0004d5a6",
+    "0004d5a8",
+    "0004d5a5",
+    "0004d5b1",
+    "0004d5ab",
+    "0004d5bc"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0004d5b5",
+        "textsInFrame": [
+          "0004d5ac",
+          "0004d5b9"
+        ]
+      },
+      {
+        "frameId": "0004d5b3",
+        "textsInFrame": [
+          "0004d5ae",
+          "0004d5a6",
+          "0004d5a8",
+          "0004d5a5"
+        ]
+      },
+      {
+        "frameId": "0004d5ad",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d5bb",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d5bd",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d5af",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d5b7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d5b4",
+        "textsInFrame": [
+          "0004d5b1",
+          "0004d5ab",
+          "0004d5bc"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "HanzaiKousyouninMinegishiEitarou",
+  "index": "76",
+  "framesOrder": [
+    "0001f667",
+    "0001f65e",
+    "0001f65a",
+    "0001f644",
+    "0001f63b",
+    "0001f65b",
+    "0001f65d",
+    "0001f655",
+    "0001f646",
+    "0001f63e",
+    "0001f63a",
+    "0001f656"
+  ],
+  "textOrder": [
+    "0001f649",
+    "0001f665",
+    "0001f645",
+    "0001f64b",
+    "0001f652",
+    "0001f663",
+    "0001f658",
+    "0001f660",
+    "0001f654",
+    "0001f63d",
+    "0001f639",
+    "0001f650",
+    "0001f657"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0001f667",
+        "textsInFrame": [
+          "0001f649"
+        ]
+      },
+      {
+        "frameId": "0001f65e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001f65a",
+        "textsInFrame": [
+          "0001f665",
+          "0001f645"
+        ]
+      },
+      {
+        "frameId": "0001f644",
+        "textsInFrame": [
+          "0001f64b"
+        ]
+      },
+      {
+        "frameId": "0001f63b",
+        "textsInFrame": [
+          "0001f652"
+        ]
+      },
+      {
+        "frameId": "0001f65b",
+        "textsInFrame": [
+          "0001f663",
+          "0001f658"
+        ]
+      },
+      {
+        "frameId": "0001f65d",
+        "textsInFrame": [
+          "0001f660"
+        ]
+      },
+      {
+        "frameId": "0001f655",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001f646",
+        "textsInFrame": [
+          "0001f654"
+        ]
+      },
+      {
+        "frameId": "0001f63e",
+        "textsInFrame": [
+          "0001f63d",
+          "0001f639"
+        ]
+      },
+      {
+        "frameId": "0001f63a",
+        "textsInFrame": [
+          "0001f650"
+        ]
+      },
+      {
+        "frameId": "0001f656",
+        "textsInFrame": [
+          "0001f657"
+        ]
+      }
+    ]
+  }
+}

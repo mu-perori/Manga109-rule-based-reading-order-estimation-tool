@@ -1,0 +1,86 @@
+{
+  "title": "MagicStarGakuin",
+  "index": "47",
+  "framesOrder": [
+    "0003ae34",
+    "0003ae3a",
+    "0003ae48",
+    "0003ae47",
+    "0003ae50",
+    "0003ae3b",
+    "0003ae33",
+    "0003ae53"
+  ],
+  "textOrder": [
+    "0003ae3c",
+    "0003ae49",
+    "0003ae40",
+    "0003ae41",
+    "0003ae3e",
+    "0003ae3d",
+    "0003ae46",
+    "0003ae35",
+    "0003ae51",
+    "0003ae37",
+    "0003ae44",
+    "0003ae4c",
+    "0003ae52"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003ae34",
+        "textsInFrame": [
+          "0003ae3c",
+          "0003ae49"
+        ]
+      },
+      {
+        "frameId": "0003ae3a",
+        "textsInFrame": [
+          "0003ae40",
+          "0003ae41"
+        ]
+      },
+      {
+        "frameId": "0003ae48",
+        "textsInFrame": [
+          "0003ae3e",
+          "0003ae3d"
+        ]
+      },
+      {
+        "frameId": "0003ae47",
+        "textsInFrame": [
+          "0003ae46"
+        ]
+      },
+      {
+        "frameId": "0003ae50",
+        "textsInFrame": [
+          "0003ae35"
+        ]
+      },
+      {
+        "frameId": "0003ae3b",
+        "textsInFrame": [
+          "0003ae51",
+          "0003ae37"
+        ]
+      },
+      {
+        "frameId": "0003ae33",
+        "textsInFrame": [
+          "0003ae44"
+        ]
+      },
+      {
+        "frameId": "0003ae53",
+        "textsInFrame": [
+          "0003ae4c",
+          "0003ae52"
+        ]
+      }
+    ]
+  }
+}

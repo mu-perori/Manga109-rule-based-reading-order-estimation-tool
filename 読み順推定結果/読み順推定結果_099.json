@@ -1,0 +1,84 @@
+{
+  "title": "TouyouKidan",
+  "index": "45",
+  "framesOrder": [
+    "0007210d",
+    "00072112",
+    "0007210a",
+    "0007211d",
+    "0007211c",
+    "00072116",
+    "00072122",
+    "0007210c",
+    "00072119",
+    "000720fe",
+    "00072113"
+  ],
+  "textOrder": [
+    "00072102",
+    "00072124",
+    "00072105",
+    "0007211f",
+    "00072121",
+    "00072100"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007210d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00072112",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007210a",
+        "textsInFrame": [
+          "00072102"
+        ]
+      },
+      {
+        "frameId": "0007211d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007211c",
+        "textsInFrame": [
+          "00072124"
+        ]
+      },
+      {
+        "frameId": "00072116",
+        "textsInFrame": [
+          "00072105",
+          "0007211f"
+        ]
+      },
+      {
+        "frameId": "00072122",
+        "textsInFrame": [
+          "00072121"
+        ]
+      },
+      {
+        "frameId": "0007210c",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00072119",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000720fe",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00072113",
+        "textsInFrame": [
+          "00072100"
+        ]
+      }
+    ]
+  }
+}

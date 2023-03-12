@@ -1,0 +1,80 @@
+{
+  "title": "Raphael",
+  "index": "105",
+  "framesOrder": [
+    "00058ecf",
+    "00058ec8",
+    "00058ed0",
+    "00058eba",
+    "00058ed4",
+    "00058ec3",
+    "00058eb8"
+  ],
+  "textOrder": [
+    "00058ec0",
+    "00058eb6",
+    "00058eca",
+    "00058eb5",
+    "00058ed5",
+    "00058ed7",
+    "00058ed3",
+    "00058ec2",
+    "00058ebc",
+    "00058ecb",
+    "00058ed1",
+    "00058ec5",
+    "00058ebe"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00058ecf",
+        "textsInFrame": [
+          "00058ec0",
+          "00058eb6",
+          "00058eca",
+          "00058eb5"
+        ]
+      },
+      {
+        "frameId": "00058ec8",
+        "textsInFrame": [
+          "00058ed5"
+        ]
+      },
+      {
+        "frameId": "00058ed0",
+        "textsInFrame": [
+          "00058ed7"
+        ]
+      },
+      {
+        "frameId": "00058eba",
+        "textsInFrame": [
+          "00058ed3"
+        ]
+      },
+      {
+        "frameId": "00058ed4",
+        "textsInFrame": [
+          "00058ec2"
+        ]
+      },
+      {
+        "frameId": "00058ec3",
+        "textsInFrame": [
+          "00058ebc",
+          "00058ecb"
+        ]
+      },
+      {
+        "frameId": "00058eb8",
+        "textsInFrame": [
+          "00058ed1",
+          "00058ec5",
+          "00058ebe"
+        ]
+      }
+    ]
+  }
+}

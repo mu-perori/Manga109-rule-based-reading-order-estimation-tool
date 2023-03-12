@@ -1,0 +1,68 @@
+{
+  "title": "AppareKappore",
+  "index": "66",
+  "framesOrder": [
+    "00005b6c",
+    "00005b67",
+    "00005b66",
+    "00005b74",
+    "00005b7b",
+    "00005b78",
+    "00005b79",
+    "00005b68"
+  ],
+  "textOrder": [
+    "00005b7c",
+    "00005b6a",
+    "00005b6f",
+    "00005b76",
+    "00005b75",
+    "00005b7a"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00005b6c",
+        "textsInFrame": [
+          "00005b7c"
+        ]
+      },
+      {
+        "frameId": "00005b67",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00005b66",
+        "textsInFrame": [
+          "00005b6a"
+        ]
+      },
+      {
+        "frameId": "00005b74",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00005b7b",
+        "textsInFrame": [
+          "00005b6f",
+          "00005b76"
+        ]
+      },
+      {
+        "frameId": "00005b78",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00005b79",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00005b68",
+        "textsInFrame": [
+          "00005b75",
+          "00005b7a"
+        ]
+      }
+    ]
+  }
+}

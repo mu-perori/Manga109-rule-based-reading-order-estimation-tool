@@ -1,0 +1,75 @@
+{
+  "title": "DualJustice",
+  "index": "56",
+  "framesOrder": [
+    "000133f8",
+    "00013403",
+    "00013409",
+    "0001340f",
+    "000133fc",
+    "0001340a",
+    "000133ed",
+    "00013408",
+    "00013401"
+  ],
+  "textOrder": [
+    "00013402",
+    "000133f6",
+    "000133f7",
+    "0001340d",
+    "00013400",
+    "000133fe",
+    "000133f0"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000133f8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00013403",
+        "textsInFrame": [
+          "00013402",
+          "000133f6"
+        ]
+      },
+      {
+        "frameId": "00013409",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001340f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000133fc",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001340a",
+        "textsInFrame": [
+          "000133f7",
+          "0001340d"
+        ]
+      },
+      {
+        "frameId": "000133ed",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00013408",
+        "textsInFrame": [
+          "00013400",
+          "000133fe"
+        ]
+      },
+      {
+        "frameId": "00013401",
+        "textsInFrame": [
+          "000133f0"
+        ]
+      }
+    ]
+  }
+}

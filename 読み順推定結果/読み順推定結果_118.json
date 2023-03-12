@@ -1,0 +1,101 @@
+{
+  "title": "PikaruGenkiDesu",
+  "index": "89",
+  "framesOrder": [
+    "00053f38",
+    "00053f23",
+    "00053f1d",
+    "00053f2f",
+    "00053f22",
+    "00053f1a",
+    "00053f2b",
+    "00053f3e",
+    "00053f27",
+    "00053f46",
+    "00053f26",
+    "00053f3f"
+  ],
+  "textOrder": [
+    "00053f29",
+    "00053f11",
+    "00053f3b",
+    "00053f3d",
+    "00053f18",
+    "00053f16",
+    "00053f49",
+    "00053f13",
+    "00053f19",
+    "00053f34"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00053f38",
+        "textsInFrame": [
+          "00053f29"
+        ]
+      },
+      {
+        "frameId": "00053f23",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00053f1d",
+        "textsInFrame": [
+          "00053f11",
+          "00053f3b"
+        ]
+      },
+      {
+        "frameId": "00053f2f",
+        "textsInFrame": [
+          "00053f3d"
+        ]
+      },
+      {
+        "frameId": "00053f22",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00053f1a",
+        "textsInFrame": [
+          "00053f18"
+        ]
+      },
+      {
+        "frameId": "00053f2b",
+        "textsInFrame": [
+          "00053f16"
+        ]
+      },
+      {
+        "frameId": "00053f3e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00053f27",
+        "textsInFrame": [
+          "00053f49"
+        ]
+      },
+      {
+        "frameId": "00053f46",
+        "textsInFrame": [
+          "00053f13"
+        ]
+      },
+      {
+        "frameId": "00053f26",
+        "textsInFrame": [
+          "00053f19"
+        ]
+      },
+      {
+        "frameId": "00053f3f",
+        "textsInFrame": [
+          "00053f34"
+        ]
+      }
+    ]
+  }
+}

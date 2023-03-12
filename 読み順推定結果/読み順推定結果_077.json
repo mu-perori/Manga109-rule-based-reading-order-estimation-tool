@@ -1,0 +1,122 @@
+{
+  "title": "DualJustice",
+  "index": "12",
+  "framesOrder": [
+    "00012e96",
+    "00012ec9",
+    "00012e8f",
+    "00012ec4",
+    "00012e8e",
+    "00012eb8",
+    "00012eb5",
+    "00012ebb",
+    "00012ebe",
+    "00012ea6",
+    "00012ea2",
+    "00012e92"
+  ],
+  "textOrder": [
+    "00012ea9",
+    "00012ec3",
+    "00012e97",
+    "00012ebd",
+    "00012e9d",
+    "00012ea3",
+    "00012ec5",
+    "00012eaf",
+    "00012eac",
+    "00012ec7",
+    "00012eab",
+    "00012ec8",
+    "00012e91",
+    "00012eae",
+    "00012e93",
+    "00012e90",
+    "00012ec1",
+    "00012eba",
+    "00012eb7",
+    "00012e94"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00012e96",
+        "textsInFrame": [
+          "00012ea9",
+          "00012ec3"
+        ]
+      },
+      {
+        "frameId": "00012ec9",
+        "textsInFrame": [
+          "00012e97",
+          "00012ebd"
+        ]
+      },
+      {
+        "frameId": "00012e8f",
+        "textsInFrame": [
+          "00012e9d",
+          "00012ea3"
+        ]
+      },
+      {
+        "frameId": "00012ec4",
+        "textsInFrame": [
+          "00012ec5",
+          "00012eaf"
+        ]
+      },
+      {
+        "frameId": "00012e8e",
+        "textsInFrame": [
+          "00012eac",
+          "00012ec7"
+        ]
+      },
+      {
+        "frameId": "00012eb8",
+        "textsInFrame": [
+          "00012eab",
+          "00012ec8"
+        ]
+      },
+      {
+        "frameId": "00012eb5",
+        "textsInFrame": [
+          "00012e91",
+          "00012eae"
+        ]
+      },
+      {
+        "frameId": "00012ebb",
+        "textsInFrame": [
+          "00012e93",
+          "00012e90"
+        ]
+      },
+      {
+        "frameId": "00012ebe",
+        "textsInFrame": [
+          "00012ec1",
+          "00012eba"
+        ]
+      },
+      {
+        "frameId": "00012ea6",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00012ea2",
+        "textsInFrame": [
+          "00012eb7",
+          "00012e94"
+        ]
+      },
+      {
+        "frameId": "00012e92",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

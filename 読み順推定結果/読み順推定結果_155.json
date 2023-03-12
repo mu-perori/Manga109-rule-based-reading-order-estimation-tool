@@ -1,0 +1,189 @@
+{
+  "title": "YukiNoFuruMachi",
+  "index": "93",
+  "framesOrder": [
+    "0007fb79",
+    "0007fb4c",
+    "0007fb56",
+    "0007fb98",
+    "0007fb91",
+    "0007fb9f",
+    "0007fb4e",
+    "0007fb78",
+    "0007fbb1",
+    "0007fb6a",
+    "0007fb8d",
+    "0007fb57",
+    "0007fb65",
+    "0007fb5d",
+    "0007fbab"
+  ],
+  "textOrder": [
+    "0007fb96",
+    "0007fb5f",
+    "0007fbaf",
+    "0007fb67",
+    "0007fb89",
+    "0007fb5c",
+    "0007fb71",
+    "0007fb5a",
+    "0007fb97",
+    "0007fb6e",
+    "0007fba5",
+    "0007fb6c",
+    "0007fb7f",
+    "0007fb54",
+    "0007fb83",
+    "0007fba3",
+    "0007fbb0",
+    "0007fb77",
+    "0007fb80",
+    "0007fba2",
+    "0007fba0",
+    "0007fb85",
+    "0007fb7a",
+    "0007fb59",
+    "0007fb9d",
+    "0007fb75",
+    "0007fbaa",
+    "0007fb53",
+    "0007fb87",
+    "0007fba8",
+    "0007fb84",
+    "0007fb72",
+    "0007fb69",
+    "0007fbad",
+    "0007fb4f",
+    "0007fb70",
+    "0007fb7c",
+    "0007fba1",
+    "0007fb8b",
+    "0007fb86",
+    "0007fb64",
+    "0007fb55",
+    "0007fb93",
+    "0007fb52"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007fb79",
+        "textsInFrame": [
+          "0007fb96",
+          "0007fb5f",
+          "0007fbaf"
+        ]
+      },
+      {
+        "frameId": "0007fb4c",
+        "textsInFrame": [
+          "0007fb67",
+          "0007fb89",
+          "0007fb5c",
+          "0007fb71"
+        ]
+      },
+      {
+        "frameId": "0007fb56",
+        "textsInFrame": [
+          "0007fb5a",
+          "0007fb97"
+        ]
+      },
+      {
+        "frameId": "0007fb98",
+        "textsInFrame": [
+          "0007fb6e",
+          "0007fba5"
+        ]
+      },
+      {
+        "frameId": "0007fb91",
+        "textsInFrame": [
+          "0007fb6c",
+          "0007fb7f"
+        ]
+      },
+      {
+        "frameId": "0007fb9f",
+        "textsInFrame": [
+          "0007fb54",
+          "0007fb83",
+          "0007fba3"
+        ]
+      },
+      {
+        "frameId": "0007fb4e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007fb78",
+        "textsInFrame": [
+          "0007fbb0",
+          "0007fb77",
+          "0007fb80",
+          "0007fba2"
+        ]
+      },
+      {
+        "frameId": "0007fbb1",
+        "textsInFrame": [
+          "0007fba0",
+          "0007fb85"
+        ]
+      },
+      {
+        "frameId": "0007fb6a",
+        "textsInFrame": [
+          "0007fb7a",
+          "0007fb59"
+        ]
+      },
+      {
+        "frameId": "0007fb8d",
+        "textsInFrame": [
+          "0007fb9d",
+          "0007fb75"
+        ]
+      },
+      {
+        "frameId": "0007fb57",
+        "textsInFrame": [
+          "0007fbaa",
+          "0007fb53",
+          "0007fb87",
+          "0007fba8",
+          "0007fb84",
+          "0007fb72"
+        ]
+      },
+      {
+        "frameId": "0007fb65",
+        "textsInFrame": [
+          "0007fb69",
+          "0007fbad"
+        ]
+      },
+      {
+        "frameId": "0007fb5d",
+        "textsInFrame": [
+          "0007fb4f",
+          "0007fb70",
+          "0007fb7c",
+          "0007fba1",
+          "0007fb8b",
+          "0007fb86"
+        ]
+      },
+      {
+        "frameId": "0007fbab",
+        "textsInFrame": [
+          "0007fb64",
+          "0007fb55",
+          "0007fb93",
+          "0007fb52"
+        ]
+      }
+    ]
+  }
+}

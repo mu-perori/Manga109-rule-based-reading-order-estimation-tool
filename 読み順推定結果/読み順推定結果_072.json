@@ -1,0 +1,78 @@
+{
+  "title": "TaiyouNiSmash",
+  "index": "81",
+  "framesOrder": [
+    "00068306",
+    "00068311",
+    "00068314",
+    "0006830a",
+    "00068302",
+    "0006831c",
+    "0006831d",
+    "00068318",
+    "00068312"
+  ],
+  "textOrder": [
+    "00068301",
+    "00068310",
+    "00068305",
+    "000682fd",
+    "0006830f",
+    "00068309",
+    "00068313"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00068306",
+        "textsInFrame": [
+          "00068301"
+        ]
+      },
+      {
+        "frameId": "00068311",
+        "textsInFrame": [
+          "00068310"
+        ]
+      },
+      {
+        "frameId": "00068314",
+        "textsInFrame": [
+          "00068305"
+        ]
+      },
+      {
+        "frameId": "0006830a",
+        "textsInFrame": [
+          "000682fd"
+        ]
+      },
+      {
+        "frameId": "00068302",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0006831c",
+        "textsInFrame": [
+          "0006830f"
+        ]
+      },
+      {
+        "frameId": "0006831d",
+        "textsInFrame": [
+          "00068309"
+        ]
+      },
+      {
+        "frameId": "00068318",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00068312",
+        "textsInFrame": [
+          "00068313"
+        ]
+      }
+    ]
+  }
+}

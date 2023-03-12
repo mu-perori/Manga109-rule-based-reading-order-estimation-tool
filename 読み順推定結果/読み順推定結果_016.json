@@ -1,0 +1,90 @@
+{
+  "title": "AppareKappore",
+  "index": "92",
+  "framesOrder": [
+    "00005fb5",
+    "00005fe0",
+    "00005fcb",
+    "00005fd4",
+    "00005fcf",
+    "00005fe8",
+    "00005fbe",
+    "00005fea"
+  ],
+  "textOrder": [
+    "00005fe9",
+    "00005fc3",
+    "00005fca",
+    "00005fb9",
+    "00005fc4",
+    "00005fd2",
+    "00005feb",
+    "00005fe1",
+    "00005fd5",
+    "00005fc2",
+    "00005fcd",
+    "00005fba",
+    "00005fc0",
+    "00005fd9",
+    "00005fb6"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00005fb5",
+        "textsInFrame": [
+          "00005fe9",
+          "00005fc3"
+        ]
+      },
+      {
+        "frameId": "00005fe0",
+        "textsInFrame": [
+          "00005fca",
+          "00005fb9"
+        ]
+      },
+      {
+        "frameId": "00005fcb",
+        "textsInFrame": [
+          "00005fc4",
+          "00005fd2",
+          "00005feb"
+        ]
+      },
+      {
+        "frameId": "00005fd4",
+        "textsInFrame": [
+          "00005fe1",
+          "00005fd5"
+        ]
+      },
+      {
+        "frameId": "00005fcf",
+        "textsInFrame": [
+          "00005fc2",
+          "00005fcd"
+        ]
+      },
+      {
+        "frameId": "00005fe8",
+        "textsInFrame": [
+          "00005fba"
+        ]
+      },
+      {
+        "frameId": "00005fbe",
+        "textsInFrame": [
+          "00005fc0",
+          "00005fd9"
+        ]
+      },
+      {
+        "frameId": "00005fea",
+        "textsInFrame": [
+          "00005fb6"
+        ]
+      }
+    ]
+  }
+}

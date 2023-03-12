@@ -1,0 +1,82 @@
+{
+  "title": "WarewareHaOniDearu",
+  "index": "77",
+  "framesOrder": [
+    "0007a4f7",
+    "0007a4ee",
+    "0007a4df",
+    "0007a4da",
+    "0007a4d5",
+    "0007a4e6",
+    "0007a4eb",
+    "0007a4d0",
+    "0007a4e1",
+    "0007a4e4"
+  ],
+  "textOrder": [
+    "0007a4d8",
+    "0007a4d2",
+    "0007a4ea",
+    "0007a4e8",
+    "0007a4f1",
+    "0007a4de",
+    "0007a4f6"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007a4f7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007a4ee",
+        "textsInFrame": [
+          "0007a4d8"
+        ]
+      },
+      {
+        "frameId": "0007a4df",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007a4da",
+        "textsInFrame": [
+          "0007a4d2"
+        ]
+      },
+      {
+        "frameId": "0007a4d5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007a4e6",
+        "textsInFrame": [
+          "0007a4ea",
+          "0007a4e8"
+        ]
+      },
+      {
+        "frameId": "0007a4eb",
+        "textsInFrame": [
+          "0007a4f1"
+        ]
+      },
+      {
+        "frameId": "0007a4d0",
+        "textsInFrame": [
+          "0007a4de"
+        ]
+      },
+      {
+        "frameId": "0007a4e1",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007a4e4",
+        "textsInFrame": [
+          "0007a4f6"
+        ]
+      }
+    ]
+  }
+}

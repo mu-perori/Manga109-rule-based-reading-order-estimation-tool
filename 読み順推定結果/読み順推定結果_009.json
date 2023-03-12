@@ -1,0 +1,153 @@
+{
+  "title": "TetsuSan",
+  "index": "27",
+  "framesOrder": [
+    "0006d7b1",
+    "0006d7d7",
+    "0006d7e5",
+    "0006d7f3",
+    "0006d7f1",
+    "0006d7fb",
+    "0006d7b0",
+    "0006d7f2",
+    "0006d7e9",
+    "0006d7d6",
+    "0006d7f0",
+    "0006d7f4",
+    "0006d7ef",
+    "0006d7b2",
+    "0006d7f8"
+  ],
+  "textOrder": [
+    "0006d7ce",
+    "0006d7e2",
+    "0006d7c4",
+    "0006d7b8",
+    "0006d7ad",
+    "0006d7d5",
+    "0006d7e3",
+    "0006d7ac",
+    "0006d7b5",
+    "0006d7f9",
+    "0006d7c8",
+    "0006d7b9",
+    "0006d7eb",
+    "0006d7de",
+    "0006d7f7",
+    "0006d7c3",
+    "0006d7b4",
+    "0006d7e7",
+    "0006d7aa",
+    "0006d7d0",
+    "0006d7c5",
+    "0006d7e0",
+    "0006d7da",
+    "0006d7df",
+    "0006d7cc",
+    "0006d7e6"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0006d7b1",
+        "textsInFrame": [
+          "0006d7ce"
+        ]
+      },
+      {
+        "frameId": "0006d7d7",
+        "textsInFrame": [
+          "0006d7e2",
+          "0006d7c4"
+        ]
+      },
+      {
+        "frameId": "0006d7e5",
+        "textsInFrame": [
+          "0006d7b8",
+          "0006d7ad"
+        ]
+      },
+      {
+        "frameId": "0006d7f3",
+        "textsInFrame": [
+          "0006d7d5"
+        ]
+      },
+      {
+        "frameId": "0006d7f1",
+        "textsInFrame": [
+          "0006d7e3",
+          "0006d7ac"
+        ]
+      },
+      {
+        "frameId": "0006d7fb",
+        "textsInFrame": [
+          "0006d7b5",
+          "0006d7f9"
+        ]
+      },
+      {
+        "frameId": "0006d7b0",
+        "textsInFrame": [
+          "0006d7c8",
+          "0006d7b9"
+        ]
+      },
+      {
+        "frameId": "0006d7f2",
+        "textsInFrame": [
+          "0006d7eb",
+          "0006d7de"
+        ]
+      },
+      {
+        "frameId": "0006d7e9",
+        "textsInFrame": [
+          "0006d7f7",
+          "0006d7c3"
+        ]
+      },
+      {
+        "frameId": "0006d7d6",
+        "textsInFrame": [
+          "0006d7b4",
+          "0006d7e7"
+        ]
+      },
+      {
+        "frameId": "0006d7f0",
+        "textsInFrame": [
+          "0006d7aa",
+          "0006d7d0"
+        ]
+      },
+      {
+        "frameId": "0006d7f4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0006d7ef",
+        "textsInFrame": [
+          "0006d7c5",
+          "0006d7e0"
+        ]
+      },
+      {
+        "frameId": "0006d7b2",
+        "textsInFrame": [
+          "0006d7da",
+          "0006d7df"
+        ]
+      },
+      {
+        "frameId": "0006d7f8",
+        "textsInFrame": [
+          "0006d7cc",
+          "0006d7e6"
+        ]
+      }
+    ]
+  }
+}

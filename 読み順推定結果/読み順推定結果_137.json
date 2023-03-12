@@ -1,0 +1,152 @@
+{
+  "title": "TsubasaNoKioku",
+  "index": "37",
+  "framesOrder": [
+    "000737b9",
+    "00073799",
+    "000737aa",
+    "000737b2",
+    "000737ae",
+    "0007379e",
+    "000737ad",
+    "000737bc",
+    "000737b3",
+    "000737ca",
+    "000737a5",
+    "00073796",
+    "000737be",
+    "000737a6",
+    "000737bb",
+    "000737b4",
+    "000737c5"
+  ],
+  "textOrder": [
+    "000737ac",
+    "000737b1",
+    "000737a1",
+    "00073798",
+    "000737b5",
+    "000737b0",
+    "00073797",
+    "000737cb",
+    "0007379a",
+    "0007379f",
+    "000737ce",
+    "000737c8",
+    "000737c6",
+    "000737c9",
+    "000737cd",
+    "000737a2",
+    "000737a8",
+    "000737a3",
+    "000737a0",
+    "000737ba"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000737b9",
+        "textsInFrame": [
+          "000737ac"
+        ]
+      },
+      {
+        "frameId": "00073799",
+        "textsInFrame": [
+          "000737b1"
+        ]
+      },
+      {
+        "frameId": "000737aa",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000737b2",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000737ae",
+        "textsInFrame": [
+          "000737a1",
+          "00073798",
+          "000737b5"
+        ]
+      },
+      {
+        "frameId": "0007379e",
+        "textsInFrame": [
+          "000737b0"
+        ]
+      },
+      {
+        "frameId": "000737ad",
+        "textsInFrame": [
+          "00073797",
+          "000737cb"
+        ]
+      },
+      {
+        "frameId": "000737bc",
+        "textsInFrame": [
+          "0007379a"
+        ]
+      },
+      {
+        "frameId": "000737b3",
+        "textsInFrame": [
+          "0007379f"
+        ]
+      },
+      {
+        "frameId": "000737ca",
+        "textsInFrame": [
+          "000737ce"
+        ]
+      },
+      {
+        "frameId": "000737a5",
+        "textsInFrame": [
+          "000737c8"
+        ]
+      },
+      {
+        "frameId": "00073796",
+        "textsInFrame": [
+          "000737c6",
+          "000737c9",
+          "000737cd"
+        ]
+      },
+      {
+        "frameId": "000737be",
+        "textsInFrame": [
+          "000737a2"
+        ]
+      },
+      {
+        "frameId": "000737a6",
+        "textsInFrame": [
+          "000737a8"
+        ]
+      },
+      {
+        "frameId": "000737bb",
+        "textsInFrame": [
+          "000737a3"
+        ]
+      },
+      {
+        "frameId": "000737b4",
+        "textsInFrame": [
+          "000737a0"
+        ]
+      },
+      {
+        "frameId": "000737c5",
+        "textsInFrame": [
+          "000737ba"
+        ]
+      }
+    ]
+  }
+}

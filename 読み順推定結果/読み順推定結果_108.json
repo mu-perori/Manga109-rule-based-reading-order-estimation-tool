@@ -1,0 +1,82 @@
+{
+  "title": "TasogareTsushin",
+  "index": "17",
+  "framesOrder": [
+    "00069c05",
+    "00069c0a",
+    "00069c0e",
+    "00069c06",
+    "00069c10",
+    "00069c16",
+    "00069c02",
+    "00069c1f",
+    "00069c11"
+  ],
+  "textOrder": [
+    "00069c1b",
+    "00069c20",
+    "00069c13",
+    "00069c0c",
+    "00069c21",
+    "00069c04",
+    "00069c22",
+    "00069c0d",
+    "00069c23"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00069c05",
+        "textsInFrame": [
+          "00069c1b"
+        ]
+      },
+      {
+        "frameId": "00069c0a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00069c0e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00069c06",
+        "textsInFrame": [
+          "00069c20"
+        ]
+      },
+      {
+        "frameId": "00069c10",
+        "textsInFrame": [
+          "00069c13",
+          "00069c0c"
+        ]
+      },
+      {
+        "frameId": "00069c16",
+        "textsInFrame": [
+          "00069c21",
+          "00069c04"
+        ]
+      },
+      {
+        "frameId": "00069c02",
+        "textsInFrame": [
+          "00069c22"
+        ]
+      },
+      {
+        "frameId": "00069c1f",
+        "textsInFrame": [
+          "00069c0d"
+        ]
+      },
+      {
+        "frameId": "00069c11",
+        "textsInFrame": [
+          "00069c23"
+        ]
+      }
+    ]
+  }
+}

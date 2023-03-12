@@ -1,0 +1,70 @@
+{
+  "title": "AosugiruHaru",
+  "index": "48",
+  "framesOrder": [
+    "000048ca",
+    "000048b5",
+    "000048c8",
+    "000048c3",
+    "000048b6",
+    "000048c0",
+    "000048cb"
+  ],
+  "textOrder": [
+    "000048b9",
+    "000048cc",
+    "000048c2",
+    "000048c5",
+    "000048be",
+    "000048c4",
+    "000048ce",
+    "000048bd",
+    "000048c1"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000048ca",
+        "textsInFrame": [
+          "000048b9",
+          "000048cc"
+        ]
+      },
+      {
+        "frameId": "000048b5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000048c8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000048c3",
+        "textsInFrame": [
+          "000048c2"
+        ]
+      },
+      {
+        "frameId": "000048b6",
+        "textsInFrame": [
+          "000048c5"
+        ]
+      },
+      {
+        "frameId": "000048c0",
+        "textsInFrame": [
+          "000048be",
+          "000048c4",
+          "000048ce"
+        ]
+      },
+      {
+        "frameId": "000048cb",
+        "textsInFrame": [
+          "000048bd",
+          "000048c1"
+        ]
+      }
+    ]
+  }
+}

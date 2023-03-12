@@ -1,0 +1,73 @@
+{
+  "title": "KarappoHighschool",
+  "index": "102",
+  "framesOrder": [
+    "0002f726",
+    "0002f72d",
+    "0002f732",
+    "0002f728",
+    "0002f72c",
+    "0002f730",
+    "0002f719"
+  ],
+  "textOrder": [
+    "0002f720",
+    "0002f718",
+    "0002f71f",
+    "0002f71e",
+    "0002f724",
+    "0002f727",
+    "0002f731",
+    "0002f729",
+    "0002f725",
+    "0002f72b"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0002f726",
+        "textsInFrame": [
+          "0002f720",
+          "0002f718"
+        ]
+      },
+      {
+        "frameId": "0002f72d",
+        "textsInFrame": [
+          "0002f71f",
+          "0002f71e"
+        ]
+      },
+      {
+        "frameId": "0002f732",
+        "textsInFrame": [
+          "0002f724",
+          "0002f727"
+        ]
+      },
+      {
+        "frameId": "0002f728",
+        "textsInFrame": [
+          "0002f731",
+          "0002f729"
+        ]
+      },
+      {
+        "frameId": "0002f72c",
+        "textsInFrame": [
+          "0002f725"
+        ]
+      },
+      {
+        "frameId": "0002f730",
+        "textsInFrame": [
+          "0002f72b"
+        ]
+      },
+      {
+        "frameId": "0002f719",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

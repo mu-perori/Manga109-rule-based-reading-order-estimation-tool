@@ -1,0 +1,115 @@
+{
+  "title": "MariaSamaNihaNaisyo",
+  "index": "90",
+  "framesOrder": [
+    "0003d210",
+    "0003d1f1",
+    "0003d1ea",
+    "0003d1eb",
+    "0003d1f6",
+    "0003d1f2",
+    "0003d203",
+    "0003d213",
+    "0003d1ec",
+    "0003d204",
+    "0003d205",
+    "0003d20b",
+    "0003d20f"
+  ],
+  "textOrder": [
+    "0003d1ff",
+    "0003d201",
+    "0003d1fd",
+    "0003d211",
+    "0003d1fa",
+    "0003d20d",
+    "0003d200",
+    "0003d20a",
+    "0003d1f7",
+    "0003d202",
+    "0003d1f5",
+    "0003d208",
+    "0003d1f9",
+    "0003d1fe",
+    "0003d1f0"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003d210",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003d1f1",
+        "textsInFrame": [
+          "0003d1ff",
+          "0003d201"
+        ]
+      },
+      {
+        "frameId": "0003d1ea",
+        "textsInFrame": [
+          "0003d1fd"
+        ]
+      },
+      {
+        "frameId": "0003d1eb",
+        "textsInFrame": [
+          "0003d211",
+          "0003d1fa"
+        ]
+      },
+      {
+        "frameId": "0003d1f6",
+        "textsInFrame": [
+          "0003d20d",
+          "0003d200"
+        ]
+      },
+      {
+        "frameId": "0003d1f2",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003d203",
+        "textsInFrame": [
+          "0003d20a"
+        ]
+      },
+      {
+        "frameId": "0003d213",
+        "textsInFrame": [
+          "0003d1f7",
+          "0003d202"
+        ]
+      },
+      {
+        "frameId": "0003d1ec",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003d204",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003d205",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003d20b",
+        "textsInFrame": [
+          "0003d1f5",
+          "0003d208"
+        ]
+      },
+      {
+        "frameId": "0003d20f",
+        "textsInFrame": [
+          "0003d1f9",
+          "0003d1fe",
+          "0003d1f0"
+        ]
+      }
+    ]
+  }
+}

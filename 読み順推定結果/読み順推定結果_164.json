@@ -1,0 +1,156 @@
+{
+  "title": "JangiriPonpon",
+  "index": "46",
+  "framesOrder": [
+    "00029f69",
+    "00029f6a",
+    "00029f62",
+    "00029f52",
+    "00029f53",
+    "00029f84",
+    "00029f78",
+    "00029f6c",
+    "00029f7f",
+    "00029fb6",
+    "00029f95",
+    "00029f85",
+    "00029f5f",
+    "00029f9b",
+    "00029fba",
+    "00029fa3"
+  ],
+  "textOrder": [
+    "00029fad",
+    "00029f9e",
+    "00029faf",
+    "00029f9f",
+    "00029fb5",
+    "00029f86",
+    "00029f8f",
+    "00029f97",
+    "00029f9c",
+    "00029faa",
+    "00029f4a",
+    "00029f94",
+    "00029f93",
+    "00029f83",
+    "00029f4e",
+    "00029f6f",
+    "00029f5c",
+    "00029f74",
+    "00029f71",
+    "00029fa0",
+    "00029f7a",
+    "00029f68",
+    "00029f8d",
+    "00029f72"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00029f69",
+        "textsInFrame": [
+          "00029fad"
+        ]
+      },
+      {
+        "frameId": "00029f6a",
+        "textsInFrame": [
+          "00029f9e",
+          "00029faf"
+        ]
+      },
+      {
+        "frameId": "00029f62",
+        "textsInFrame": [
+          "00029f9f"
+        ]
+      },
+      {
+        "frameId": "00029f52",
+        "textsInFrame": [
+          "00029fb5",
+          "00029f86"
+        ]
+      },
+      {
+        "frameId": "00029f53",
+        "textsInFrame": [
+          "00029f8f",
+          "00029f97"
+        ]
+      },
+      {
+        "frameId": "00029f84",
+        "textsInFrame": [
+          "00029f9c",
+          "00029faa"
+        ]
+      },
+      {
+        "frameId": "00029f78",
+        "textsInFrame": [
+          "00029f4a",
+          "00029f94"
+        ]
+      },
+      {
+        "frameId": "00029f6c",
+        "textsInFrame": [
+          "00029f93"
+        ]
+      },
+      {
+        "frameId": "00029f7f",
+        "textsInFrame": [
+          "00029f83"
+        ]
+      },
+      {
+        "frameId": "00029fb6",
+        "textsInFrame": [
+          "00029f4e"
+        ]
+      },
+      {
+        "frameId": "00029f95",
+        "textsInFrame": [
+          "00029f6f"
+        ]
+      },
+      {
+        "frameId": "00029f85",
+        "textsInFrame": [
+          "00029f5c",
+          "00029f74"
+        ]
+      },
+      {
+        "frameId": "00029f5f",
+        "textsInFrame": [
+          "00029f71",
+          "00029fa0",
+          "00029f7a"
+        ]
+      },
+      {
+        "frameId": "00029f9b",
+        "textsInFrame": [
+          "00029f68"
+        ]
+      },
+      {
+        "frameId": "00029fba",
+        "textsInFrame": [
+          "00029f8d"
+        ]
+      },
+      {
+        "frameId": "00029fa3",
+        "textsInFrame": [
+          "00029f72"
+        ]
+      }
+    ]
+  }
+}

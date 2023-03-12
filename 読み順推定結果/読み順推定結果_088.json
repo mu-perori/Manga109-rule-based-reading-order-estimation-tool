@@ -1,0 +1,96 @@
+{
+  "title": "SeisinkiVulnus",
+  "index": "91",
+  "framesOrder": [
+    "00061804",
+    "00061801",
+    "000617f4",
+    "00061800",
+    "000617f2",
+    "000617fa",
+    "00061802",
+    "000617e8",
+    "000617f7",
+    "000617e4",
+    "000617e2",
+    "000617f5",
+    "00061803"
+  ],
+  "textOrder": [
+    "000617f1",
+    "000617fb",
+    "000617ec",
+    "000617fc",
+    "000617f3",
+    "000617e5",
+    "000617f0"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00061804",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00061801",
+        "textsInFrame": [
+          "000617f1",
+          "000617fb"
+        ]
+      },
+      {
+        "frameId": "000617f4",
+        "textsInFrame": [
+          "000617ec",
+          "000617fc"
+        ]
+      },
+      {
+        "frameId": "00061800",
+        "textsInFrame": [
+          "000617f3"
+        ]
+      },
+      {
+        "frameId": "000617f2",
+        "textsInFrame": [
+          "000617e5"
+        ]
+      },
+      {
+        "frameId": "000617fa",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00061802",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000617e8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000617f7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000617e4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000617e2",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000617f5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00061803",
+        "textsInFrame": [
+          "000617f0"
+        ]
+      }
+    ]
+  }
+}

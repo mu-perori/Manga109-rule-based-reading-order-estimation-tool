@@ -1,0 +1,82 @@
+{
+  "title": "TensiNoHaneToAkumaNoShippo",
+  "index": "12",
+  "framesOrder": [
+    "0006be0a",
+    "0006be1b",
+    "0006be10",
+    "0006be09",
+    "0006be04",
+    "0006be15",
+    "0006bdf9",
+    "0006bdfa",
+    "0006be0c"
+  ],
+  "textOrder": [
+    "0006bdf6",
+    "0006be03",
+    "0006be0d",
+    "0006bdfc",
+    "0006be12",
+    "0006be07",
+    "0006be02",
+    "0006be18",
+    "0006bdfb"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0006be0a",
+        "textsInFrame": [
+          "0006bdf6"
+        ]
+      },
+      {
+        "frameId": "0006be1b",
+        "textsInFrame": [
+          "0006be03"
+        ]
+      },
+      {
+        "frameId": "0006be10",
+        "textsInFrame": [
+          "0006be0d",
+          "0006bdfc"
+        ]
+      },
+      {
+        "frameId": "0006be09",
+        "textsInFrame": [
+          "0006be12"
+        ]
+      },
+      {
+        "frameId": "0006be04",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0006be15",
+        "textsInFrame": [
+          "0006be07"
+        ]
+      },
+      {
+        "frameId": "0006bdf9",
+        "textsInFrame": [
+          "0006be02",
+          "0006be18"
+        ]
+      },
+      {
+        "frameId": "0006bdfa",
+        "textsInFrame": [
+          "0006bdfb"
+        ]
+      },
+      {
+        "frameId": "0006be0c",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

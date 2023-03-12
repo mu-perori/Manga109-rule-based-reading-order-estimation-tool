@@ -1,0 +1,172 @@
+{
+  "title": "Hamlet",
+  "index": "41",
+  "framesOrder": [
+    "0001c828",
+    "0001c7ee",
+    "0001c82b",
+    "0001c82e",
+    "0001c7ff",
+    "0001c7f1",
+    "0001c824",
+    "0001c81d",
+    "0001c829",
+    "0001c804",
+    "0001c826",
+    "0001c7df",
+    "0001c82c",
+    "0001c7fd",
+    "0001c7d8",
+    "0001c7de"
+  ],
+  "textOrder": [
+    "0001c80e",
+    "0001c7ed",
+    "0001c7d0",
+    "0001c81a",
+    "0001c7f8",
+    "0001c7f7",
+    "0001c823",
+    "0001c7da",
+    "0001c7d6",
+    "0001c7d4",
+    "0001c825",
+    "0001c7e8",
+    "0001c7cf",
+    "0001c7c0",
+    "0001c7d7",
+    "0001c7eb",
+    "0001c815",
+    "0001c803",
+    "0001c7d3",
+    "0001c7d1",
+    "0001c7e4",
+    "0001c7c1",
+    "0001c818",
+    "0001c807",
+    "0001c7bf",
+    "0001c80b",
+    "0001c7e5",
+    "0001c7d5",
+    "0001c7c2",
+    "0001c80d",
+    "0001c7f6",
+    "0001c7c3"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0001c828",
+        "textsInFrame": [
+          "0001c80e"
+        ]
+      },
+      {
+        "frameId": "0001c7ee",
+        "textsInFrame": [
+          "0001c7ed",
+          "0001c7d0",
+          "0001c81a",
+          "0001c7f8"
+        ]
+      },
+      {
+        "frameId": "0001c82b",
+        "textsInFrame": [
+          "0001c7f7",
+          "0001c823"
+        ]
+      },
+      {
+        "frameId": "0001c82e",
+        "textsInFrame": [
+          "0001c7da"
+        ]
+      },
+      {
+        "frameId": "0001c7ff",
+        "textsInFrame": [
+          "0001c7d6"
+        ]
+      },
+      {
+        "frameId": "0001c7f1",
+        "textsInFrame": [
+          "0001c7d4"
+        ]
+      },
+      {
+        "frameId": "0001c824",
+        "textsInFrame": [
+          "0001c825",
+          "0001c7e8"
+        ]
+      },
+      {
+        "frameId": "0001c81d",
+        "textsInFrame": [
+          "0001c7cf",
+          "0001c7c0",
+          "0001c7d7"
+        ]
+      },
+      {
+        "frameId": "0001c829",
+        "textsInFrame": [
+          "0001c7eb",
+          "0001c815"
+        ]
+      },
+      {
+        "frameId": "0001c804",
+        "textsInFrame": [
+          "0001c803",
+          "0001c7d3"
+        ]
+      },
+      {
+        "frameId": "0001c826",
+        "textsInFrame": [
+          "0001c7d1",
+          "0001c7e4"
+        ]
+      },
+      {
+        "frameId": "0001c7df",
+        "textsInFrame": [
+          "0001c7c1"
+        ]
+      },
+      {
+        "frameId": "0001c82c",
+        "textsInFrame": [
+          "0001c818"
+        ]
+      },
+      {
+        "frameId": "0001c7fd",
+        "textsInFrame": [
+          "0001c807",
+          "0001c7bf",
+          "0001c80b"
+        ]
+      },
+      {
+        "frameId": "0001c7d8",
+        "textsInFrame": [
+          "0001c7e5",
+          "0001c7d5",
+          "0001c7c2"
+        ]
+      },
+      {
+        "frameId": "0001c7de",
+        "textsInFrame": [
+          "0001c80d",
+          "0001c7f6",
+          "0001c7c3"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "RisingGirl",
+  "index": "107",
+  "framesOrder": [
+    "0005cc13",
+    "0005cc19",
+    "0005cc10",
+    "0005cc17",
+    "0005cc0f",
+    "0005cc15"
+  ],
+  "textOrder": [
+    "0005cc12",
+    "0005cc0e",
+    "0005cc16",
+    "0005cc0c",
+    "0005cc0d",
+    "0005cc0b",
+    "0005cc18",
+    "0005cc11"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0005cc13",
+        "textsInFrame": [
+          "0005cc12"
+        ]
+      },
+      {
+        "frameId": "0005cc19",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0005cc10",
+        "textsInFrame": [
+          "0005cc0e"
+        ]
+      },
+      {
+        "frameId": "0005cc17",
+        "textsInFrame": [
+          "0005cc16",
+          "0005cc0c"
+        ]
+      },
+      {
+        "frameId": "0005cc0f",
+        "textsInFrame": [
+          "0005cc0d",
+          "0005cc0b"
+        ]
+      },
+      {
+        "frameId": "0005cc15",
+        "textsInFrame": [
+          "0005cc18",
+          "0005cc11"
+        ]
+      }
+    ]
+  }
+}

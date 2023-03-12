@@ -1,0 +1,69 @@
+{
+  "title": "YoumaKourin",
+  "index": "19",
+  "framesOrder": [
+    "0007d88b",
+    "0007d888",
+    "0007d8a1",
+    "0007d895",
+    "0007d899",
+    "0007d893",
+    "0007d889",
+    "0007d88e"
+  ],
+  "textOrder": [
+    "0007d89e",
+    "0007d89c",
+    "0007d88d",
+    "0007d88f",
+    "0007d897",
+    "0007d896"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007d88b",
+        "textsInFrame": [
+          "0007d89e"
+        ]
+      },
+      {
+        "frameId": "0007d888",
+        "textsInFrame": [
+          "0007d89c"
+        ]
+      },
+      {
+        "frameId": "0007d8a1",
+        "textsInFrame": [
+          "0007d88d"
+        ]
+      },
+      {
+        "frameId": "0007d895",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007d899",
+        "textsInFrame": [
+          "0007d88f",
+          "0007d897"
+        ]
+      },
+      {
+        "frameId": "0007d893",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007d889",
+        "textsInFrame": [
+          "0007d896"
+        ]
+      },
+      {
+        "frameId": "0007d88e",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

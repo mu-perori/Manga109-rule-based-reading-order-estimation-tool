@@ -1,0 +1,90 @@
+{
+  "title": "ByebyeC-BOY",
+  "index": "31",
+  "framesOrder": [
+    "0000f30f",
+    "0000f31e",
+    "0000f30b",
+    "0000f319",
+    "0000f31b",
+    "0000f2f8",
+    "0000f2f9",
+    "0000f317",
+    "0000f2ff"
+  ],
+  "textOrder": [
+    "0000f310",
+    "0000f300",
+    "0000f305",
+    "0000f2fb",
+    "0000f2f7",
+    "0000f2fc",
+    "0000f31c",
+    "0000f316",
+    "0000f31a",
+    "0000f312",
+    "0000f315",
+    "0000f30c"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0000f30f",
+        "textsInFrame": [
+          "0000f310"
+        ]
+      },
+      {
+        "frameId": "0000f31e",
+        "textsInFrame": [
+          "0000f300",
+          "0000f305"
+        ]
+      },
+      {
+        "frameId": "0000f30b",
+        "textsInFrame": [
+          "0000f2fb"
+        ]
+      },
+      {
+        "frameId": "0000f319",
+        "textsInFrame": [
+          "0000f2f7"
+        ]
+      },
+      {
+        "frameId": "0000f31b",
+        "textsInFrame": [
+          "0000f2fc"
+        ]
+      },
+      {
+        "frameId": "0000f2f8",
+        "textsInFrame": [
+          "0000f31c"
+        ]
+      },
+      {
+        "frameId": "0000f2f9",
+        "textsInFrame": [
+          "0000f316",
+          "0000f31a"
+        ]
+      },
+      {
+        "frameId": "0000f317",
+        "textsInFrame": [
+          "0000f312"
+        ]
+      },
+      {
+        "frameId": "0000f2ff",
+        "textsInFrame": [
+          "0000f315",
+          "0000f30c"
+        ]
+      }
+    ]
+  }
+}

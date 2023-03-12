@@ -1,0 +1,87 @@
+{
+  "title": "GarakutayaManta",
+  "index": "53",
+  "framesOrder": [
+    "0001a9bf",
+    "0001a9bb",
+    "0001a9b1",
+    "0001a9ba",
+    "0001a99e",
+    "0001a99a",
+    "0001a9a9",
+    "0001a9b5",
+    "0001a9a6",
+    "0001a9af",
+    "0001a99f",
+    "0001a9a8"
+  ],
+  "textOrder": [
+    "0001a996",
+    "0001a9ac",
+    "0001a9a2",
+    "0001a9b0",
+    "0001a9b9"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0001a9bf",
+        "textsInFrame": [
+          "0001a996"
+        ]
+      },
+      {
+        "frameId": "0001a9bb",
+        "textsInFrame": [
+          "0001a9ac"
+        ]
+      },
+      {
+        "frameId": "0001a9b1",
+        "textsInFrame": [
+          "0001a9a2"
+        ]
+      },
+      {
+        "frameId": "0001a9ba",
+        "textsInFrame": [
+          "0001a9b0"
+        ]
+      },
+      {
+        "frameId": "0001a99e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a99a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a9a9",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a9b5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a9a6",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a9af",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a99f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001a9a8",
+        "textsInFrame": [
+          "0001a9b9"
+        ]
+      }
+    ]
+  }
+}

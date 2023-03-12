@@ -1,0 +1,139 @@
+{
+  "title": "TensiNoHaneToAkumaNoShippo",
+  "index": "74",
+  "framesOrder": [
+    "0006ca09",
+    "0006c9f4",
+    "0006ca0d",
+    "0006c9f7",
+    "0006c9e4",
+    "0006ca0f",
+    "0006ca07",
+    "0006ca28",
+    "0006ca05",
+    "0006c9f0",
+    "0006ca11",
+    "0006c9df",
+    "0006ca04"
+  ],
+  "textOrder": [
+    "0006ca2b",
+    "0006c9e0",
+    "0006ca00",
+    "0006c9f3",
+    "0006c9f8",
+    "0006ca1b",
+    "0006c9d7",
+    "0006c9d2",
+    "0006c9ff",
+    "0006ca27",
+    "0006ca03",
+    "0006c9fe",
+    "0006c9d8",
+    "0006c9dc",
+    "0006c9dd",
+    "0006c9eb",
+    "0006ca1c",
+    "0006ca18",
+    "0006ca01",
+    "0006ca17",
+    "0006ca14",
+    "0006ca20",
+    "0006c9ed",
+    "0006c9f5",
+    "0006c9ec"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0006ca09",
+        "textsInFrame": [
+          "0006ca2b"
+        ]
+      },
+      {
+        "frameId": "0006c9f4",
+        "textsInFrame": [
+          "0006c9e0"
+        ]
+      },
+      {
+        "frameId": "0006ca0d",
+        "textsInFrame": [
+          "0006ca00",
+          "0006c9f3"
+        ]
+      },
+      {
+        "frameId": "0006c9f7",
+        "textsInFrame": [
+          "0006c9f8",
+          "0006ca1b"
+        ]
+      },
+      {
+        "frameId": "0006c9e4",
+        "textsInFrame": [
+          "0006c9d7",
+          "0006c9d2",
+          "0006c9ff"
+        ]
+      },
+      {
+        "frameId": "0006ca0f",
+        "textsInFrame": [
+          "0006ca27",
+          "0006ca03",
+          "0006c9fe"
+        ]
+      },
+      {
+        "frameId": "0006ca07",
+        "textsInFrame": [
+          "0006c9d8",
+          "0006c9dc"
+        ]
+      },
+      {
+        "frameId": "0006ca28",
+        "textsInFrame": [
+          "0006c9dd",
+          "0006c9eb"
+        ]
+      },
+      {
+        "frameId": "0006ca05",
+        "textsInFrame": [
+          "0006ca1c",
+          "0006ca18"
+        ]
+      },
+      {
+        "frameId": "0006c9f0",
+        "textsInFrame": [
+          "0006ca01",
+          "0006ca17",
+          "0006ca14"
+        ]
+      },
+      {
+        "frameId": "0006ca11",
+        "textsInFrame": [
+          "0006ca20"
+        ]
+      },
+      {
+        "frameId": "0006c9df",
+        "textsInFrame": [
+          "0006c9ed",
+          "0006c9f5",
+          "0006c9ec"
+        ]
+      },
+      {
+        "frameId": "0006ca04",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

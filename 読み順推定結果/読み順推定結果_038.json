@@ -1,0 +1,149 @@
+{
+  "title": "KarappoHighschool",
+  "index": "41",
+  "framesOrder": [
+    "0002edf3",
+    "0002ee1a",
+    "0002ee16",
+    "0002ee0a",
+    "0002ee23",
+    "0002edfd",
+    "0002edf4",
+    "0002ede4",
+    "0002ee1e",
+    "0002edea",
+    "0002ee22",
+    "0002ee0d",
+    "0002edfa",
+    "0002ee21",
+    "0002ede5",
+    "0002edf8"
+  ],
+  "textOrder": [
+    "0002edf9",
+    "0002ee00",
+    "0002ee07",
+    "0002ee25",
+    "0002ee24",
+    "0002edee",
+    "0002ee28",
+    "0002ee15",
+    "0002eded",
+    "0002ee12",
+    "0002edf2",
+    "0002ee0e",
+    "0002ee26",
+    "0002ee05",
+    "0002ee13",
+    "0002ee08",
+    "0002ee0c",
+    "0002ee0b",
+    "0002ee04",
+    "0002edf7",
+    "0002ede2",
+    "0002ede3"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0002edf3",
+        "textsInFrame": [
+          "0002edf9",
+          "0002ee00"
+        ]
+      },
+      {
+        "frameId": "0002ee1a",
+        "textsInFrame": [
+          "0002ee07"
+        ]
+      },
+      {
+        "frameId": "0002ee16",
+        "textsInFrame": [
+          "0002ee25",
+          "0002ee24"
+        ]
+      },
+      {
+        "frameId": "0002ee0a",
+        "textsInFrame": [
+          "0002edee",
+          "0002ee28"
+        ]
+      },
+      {
+        "frameId": "0002ee23",
+        "textsInFrame": [
+          "0002ee15"
+        ]
+      },
+      {
+        "frameId": "0002edfd",
+        "textsInFrame": [
+          "0002eded",
+          "0002ee12"
+        ]
+      },
+      {
+        "frameId": "0002edf4",
+        "textsInFrame": [
+          "0002edf2"
+        ]
+      },
+      {
+        "frameId": "0002ede4",
+        "textsInFrame": [
+          "0002ee0e",
+          "0002ee26"
+        ]
+      },
+      {
+        "frameId": "0002ee1e",
+        "textsInFrame": [
+          "0002ee05",
+          "0002ee13"
+        ]
+      },
+      {
+        "frameId": "0002edea",
+        "textsInFrame": [
+          "0002ee08",
+          "0002ee0c"
+        ]
+      },
+      {
+        "frameId": "0002ee22",
+        "textsInFrame": [
+          "0002ee0b",
+          "0002ee04"
+        ]
+      },
+      {
+        "frameId": "0002ee0d",
+        "textsInFrame": [
+          "0002edf7"
+        ]
+      },
+      {
+        "frameId": "0002edfa",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0002ee21",
+        "textsInFrame": [
+          "0002ede2",
+          "0002ede3"
+        ]
+      },
+      {
+        "frameId": "0002ede5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0002edf8",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

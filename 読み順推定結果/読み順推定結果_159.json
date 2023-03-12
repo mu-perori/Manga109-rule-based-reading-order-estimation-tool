@@ -1,0 +1,67 @@
+{
+  "title": "Hamlet",
+  "index": "68",
+  "framesOrder": [
+    "0001cee0",
+    "0001cee8",
+    "0001ceeb",
+    "0001cee1",
+    "0001cee5",
+    "0001ced7"
+  ],
+  "textOrder": [
+    "0001ced3",
+    "0001cedc",
+    "0001ced4",
+    "0001ced1",
+    "0001ced5",
+    "0001ceda",
+    "0001cee6",
+    "0001cecf",
+    "0001ceec",
+    "0001cee4"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0001cee0",
+        "textsInFrame": [
+          "0001ced3"
+        ]
+      },
+      {
+        "frameId": "0001cee8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001ceeb",
+        "textsInFrame": [
+          "0001cedc",
+          "0001ced4"
+        ]
+      },
+      {
+        "frameId": "0001cee1",
+        "textsInFrame": [
+          "0001ced1",
+          "0001ced5",
+          "0001ceda"
+        ]
+      },
+      {
+        "frameId": "0001cee5",
+        "textsInFrame": [
+          "0001cee6",
+          "0001cecf"
+        ]
+      },
+      {
+        "frameId": "0001ced7",
+        "textsInFrame": [
+          "0001ceec",
+          "0001cee4"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "TapkunNoTanteisitsu",
+  "index": "41",
+  "framesOrder": [
+    "00068c89",
+    "00068c8b",
+    "00068c70",
+    "00068c7f",
+    "00068c79",
+    "00068c6b",
+    "00068c61",
+    "00068c69",
+    "00068c81",
+    "00068c78",
+    "00068c62",
+    "00068c63"
+  ],
+  "textOrder": [
+    "00068c6d",
+    "00068c6a",
+    "00068c6e",
+    "00068c67",
+    "00068c88",
+    "00068c80",
+    "00068c64",
+    "00068c5d",
+    "00068c75",
+    "00068c5b",
+    "00068c72",
+    "00068c5c",
+    "00068c83"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00068c89",
+        "textsInFrame": [
+          "00068c6d"
+        ]
+      },
+      {
+        "frameId": "00068c8b",
+        "textsInFrame": [
+          "00068c6a"
+        ]
+      },
+      {
+        "frameId": "00068c70",
+        "textsInFrame": [
+          "00068c6e"
+        ]
+      },
+      {
+        "frameId": "00068c7f",
+        "textsInFrame": [
+          "00068c67",
+          "00068c88"
+        ]
+      },
+      {
+        "frameId": "00068c79",
+        "textsInFrame": [
+          "00068c80"
+        ]
+      },
+      {
+        "frameId": "00068c6b",
+        "textsInFrame": [
+          "00068c64"
+        ]
+      },
+      {
+        "frameId": "00068c61",
+        "textsInFrame": [
+          "00068c5d"
+        ]
+      },
+      {
+        "frameId": "00068c69",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00068c81",
+        "textsInFrame": [
+          "00068c75"
+        ]
+      },
+      {
+        "frameId": "00068c78",
+        "textsInFrame": [
+          "00068c5b",
+          "00068c72"
+        ]
+      },
+      {
+        "frameId": "00068c62",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00068c63",
+        "textsInFrame": [
+          "00068c5c",
+          "00068c83"
+        ]
+      }
+    ]
+  }
+}

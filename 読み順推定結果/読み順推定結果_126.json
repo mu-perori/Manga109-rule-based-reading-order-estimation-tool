@@ -1,0 +1,86 @@
+{
+  "title": "EienNoWith",
+  "index": "92",
+  "framesOrder": [
+    "00014bbd",
+    "00014bb0",
+    "00014baa",
+    "00014bbb",
+    "00014bc6",
+    "00014bb7",
+    "00014bb2",
+    "00014baf",
+    "00014ba5"
+  ],
+  "textOrder": [
+    "00014bb5",
+    "00014bbc",
+    "00014b9f",
+    "00014bb9",
+    "00014bbe",
+    "00014bc7",
+    "00014bb1",
+    "00014bbf",
+    "00014bb4",
+    "00014bc2",
+    "00014ba7"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00014bbd",
+        "textsInFrame": [
+          "00014bb5",
+          "00014bbc",
+          "00014b9f"
+        ]
+      },
+      {
+        "frameId": "00014bb0",
+        "textsInFrame": [
+          "00014bb9"
+        ]
+      },
+      {
+        "frameId": "00014baa",
+        "textsInFrame": [
+          "00014bbe",
+          "00014bc7"
+        ]
+      },
+      {
+        "frameId": "00014bbb",
+        "textsInFrame": [
+          "00014bb1"
+        ]
+      },
+      {
+        "frameId": "00014bc6",
+        "textsInFrame": [
+          "00014bbf"
+        ]
+      },
+      {
+        "frameId": "00014bb7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00014bb2",
+        "textsInFrame": [
+          "00014bb4"
+        ]
+      },
+      {
+        "frameId": "00014baf",
+        "textsInFrame": [
+          "00014bc2",
+          "00014ba7"
+        ]
+      },
+      {
+        "frameId": "00014ba5",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

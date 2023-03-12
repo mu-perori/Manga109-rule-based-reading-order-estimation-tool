@@ -1,0 +1,102 @@
+{
+  "title": "Hamlet",
+  "index": "23",
+  "framesOrder": [
+    "0001c3aa",
+    "0001c3a2",
+    "0001c3ae",
+    "0001c38c",
+    "0001c3a9",
+    "0001c3b1",
+    "0001c38a",
+    "0001c386",
+    "0001c384",
+    "0001c380"
+  ],
+  "textOrder": [
+    "0001c3bd",
+    "0001c3b3",
+    "0001c385",
+    "0001c3b8",
+    "0001c3bc",
+    "0001c3b0",
+    "0001c3ad",
+    "0001c389",
+    "0001c38d",
+    "0001c374",
+    "0001c3bb",
+    "0001c39f",
+    "0001c390",
+    "0001c3b5",
+    "0001c3a1",
+    "0001c395"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0001c3aa",
+        "textsInFrame": [
+          "0001c3bd",
+          "0001c3b3"
+        ]
+      },
+      {
+        "frameId": "0001c3a2",
+        "textsInFrame": [
+          "0001c385",
+          "0001c3b8"
+        ]
+      },
+      {
+        "frameId": "0001c3ae",
+        "textsInFrame": [
+          "0001c3bc",
+          "0001c3b0"
+        ]
+      },
+      {
+        "frameId": "0001c38c",
+        "textsInFrame": [
+          "0001c3ad"
+        ]
+      },
+      {
+        "frameId": "0001c3a9",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001c3b1",
+        "textsInFrame": [
+          "0001c389",
+          "0001c38d"
+        ]
+      },
+      {
+        "frameId": "0001c38a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0001c386",
+        "textsInFrame": [
+          "0001c374",
+          "0001c3bb"
+        ]
+      },
+      {
+        "frameId": "0001c384",
+        "textsInFrame": [
+          "0001c39f",
+          "0001c390"
+        ]
+      },
+      {
+        "frameId": "0001c380",
+        "textsInFrame": [
+          "0001c3b5",
+          "0001c3a1",
+          "0001c395"
+        ]
+      }
+    ]
+  }
+}

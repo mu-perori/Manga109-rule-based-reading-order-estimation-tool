@@ -1,0 +1,63 @@
+{
+  "title": "Nekodama",
+  "index": "83",
+  "framesOrder": [
+    "0004b012",
+    "0004b00e",
+    "0004b00d",
+    "0004b009",
+    "0004b014",
+    "0004b010",
+    "0004b008"
+  ],
+  "textOrder": [
+    "0004b018",
+    "0004b01a",
+    "0004b00a",
+    "0004b00f",
+    "0004b004",
+    "0004b019"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0004b012",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004b00e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004b00d",
+        "textsInFrame": [
+          "0004b018",
+          "0004b01a"
+        ]
+      },
+      {
+        "frameId": "0004b009",
+        "textsInFrame": [
+          "0004b00a"
+        ]
+      },
+      {
+        "frameId": "0004b014",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004b010",
+        "textsInFrame": [
+          "0004b00f",
+          "0004b004"
+        ]
+      },
+      {
+        "frameId": "0004b008",
+        "textsInFrame": [
+          "0004b019"
+        ]
+      }
+    ]
+  }
+}

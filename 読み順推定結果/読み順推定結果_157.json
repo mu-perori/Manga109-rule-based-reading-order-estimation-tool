@@ -1,0 +1,122 @@
+{
+  "title": "BurariTessenTorimonocho",
+  "index": "94",
+  "framesOrder": [
+    "0000e96c",
+    "0000e96e",
+    "0000e952",
+    "0000e94e",
+    "0000e94d",
+    "0000e971",
+    "0000e967",
+    "0000e97d",
+    "0000e95c",
+    "0000e974",
+    "0000e964",
+    "0000e951",
+    "0000e940",
+    "0000e975"
+  ],
+  "textOrder": [
+    "0000e94b",
+    "0000e95d",
+    "0000e973",
+    "0000e966",
+    "0000e95e",
+    "0000e96d",
+    "0000e968",
+    "0000e96a",
+    "0000e953",
+    "0000e946",
+    "0000e972",
+    "0000e969",
+    "0000e978",
+    "0000e979"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0000e96c",
+        "textsInFrame": [
+          "0000e94b"
+        ]
+      },
+      {
+        "frameId": "0000e96e",
+        "textsInFrame": [
+          "0000e95d",
+          "0000e973"
+        ]
+      },
+      {
+        "frameId": "0000e952",
+        "textsInFrame": [
+          "0000e966",
+          "0000e95e"
+        ]
+      },
+      {
+        "frameId": "0000e94e",
+        "textsInFrame": [
+          "0000e96d"
+        ]
+      },
+      {
+        "frameId": "0000e94d",
+        "textsInFrame": [
+          "0000e968"
+        ]
+      },
+      {
+        "frameId": "0000e971",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000e967",
+        "textsInFrame": [
+          "0000e96a"
+        ]
+      },
+      {
+        "frameId": "0000e97d",
+        "textsInFrame": [
+          "0000e953"
+        ]
+      },
+      {
+        "frameId": "0000e95c",
+        "textsInFrame": [
+          "0000e946"
+        ]
+      },
+      {
+        "frameId": "0000e974",
+        "textsInFrame": [
+          "0000e972"
+        ]
+      },
+      {
+        "frameId": "0000e964",
+        "textsInFrame": [
+          "0000e969"
+        ]
+      },
+      {
+        "frameId": "0000e951",
+        "textsInFrame": [
+          "0000e978"
+        ]
+      },
+      {
+        "frameId": "0000e940",
+        "textsInFrame": [
+          "0000e979"
+        ]
+      },
+      {
+        "frameId": "0000e975",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

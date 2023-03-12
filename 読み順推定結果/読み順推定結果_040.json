@@ -1,0 +1,92 @@
+{
+  "title": "MeteoSanStrikeDesu",
+  "index": "19",
+  "framesOrder": [
+    "0003f191",
+    "0003f174",
+    "0003f18f",
+    "0003f179",
+    "0003f18a",
+    "0003f170",
+    "0003f172",
+    "0003f16f",
+    "0003f17f",
+    "0003f17d",
+    "0003f17c"
+  ],
+  "textOrder": [
+    "0003f17e",
+    "0003f182",
+    "0003f188",
+    "0003f173",
+    "0003f18b",
+    "0003f192",
+    "0003f181",
+    "0003f17b",
+    "0003f184"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003f191",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003f174",
+        "textsInFrame": [
+          "0003f17e"
+        ]
+      },
+      {
+        "frameId": "0003f18f",
+        "textsInFrame": [
+          "0003f182"
+        ]
+      },
+      {
+        "frameId": "0003f179",
+        "textsInFrame": [
+          "0003f188"
+        ]
+      },
+      {
+        "frameId": "0003f18a",
+        "textsInFrame": [
+          "0003f173",
+          "0003f18b"
+        ]
+      },
+      {
+        "frameId": "0003f170",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003f172",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003f16f",
+        "textsInFrame": [
+          "0003f192",
+          "0003f181"
+        ]
+      },
+      {
+        "frameId": "0003f17f",
+        "textsInFrame": [
+          "0003f17b"
+        ]
+      },
+      {
+        "frameId": "0003f17d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003f17c",
+        "textsInFrame": [
+          "0003f184"
+        ]
+      }
+    ]
+  }
+}

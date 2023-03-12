@@ -1,0 +1,133 @@
+{
+  "title": "Ningyoushi",
+  "index": "69",
+  "framesOrder": [
+    "0004d54d",
+    "0004d582",
+    "0004d562",
+    "0004d577",
+    "0004d575",
+    "0004d579",
+    "0004d55f",
+    "0004d56e",
+    "0004d57f",
+    "0004d55d",
+    "0004d54f",
+    "0004d56c",
+    "0004d552",
+    "0004d559"
+  ],
+  "textOrder": [
+    "0004d56f",
+    "0004d569",
+    "0004d551",
+    "0004d550",
+    "0004d566",
+    "0004d555",
+    "0004d568",
+    "0004d55e",
+    "0004d581",
+    "0004d57a",
+    "0004d54e",
+    "0004d574",
+    "0004d56d",
+    "0004d560",
+    "0004d576",
+    "0004d57c",
+    "0004d563",
+    "0004d567",
+    "0004d57d",
+    "0004d56a"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0004d54d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d582",
+        "textsInFrame": [
+          "0004d56f",
+          "0004d569",
+          "0004d551"
+        ]
+      },
+      {
+        "frameId": "0004d562",
+        "textsInFrame": [
+          "0004d550",
+          "0004d566"
+        ]
+      },
+      {
+        "frameId": "0004d577",
+        "textsInFrame": [
+          "0004d555",
+          "0004d568",
+          "0004d55e"
+        ]
+      },
+      {
+        "frameId": "0004d575",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d579",
+        "textsInFrame": [
+          "0004d581"
+        ]
+      },
+      {
+        "frameId": "0004d55f",
+        "textsInFrame": [
+          "0004d57a"
+        ]
+      },
+      {
+        "frameId": "0004d56e",
+        "textsInFrame": [
+          "0004d54e"
+        ]
+      },
+      {
+        "frameId": "0004d57f",
+        "textsInFrame": [
+          "0004d574",
+          "0004d56d"
+        ]
+      },
+      {
+        "frameId": "0004d55d",
+        "textsInFrame": [
+          "0004d560",
+          "0004d576"
+        ]
+      },
+      {
+        "frameId": "0004d54f",
+        "textsInFrame": [
+          "0004d57c",
+          "0004d563"
+        ]
+      },
+      {
+        "frameId": "0004d56c",
+        "textsInFrame": [
+          "0004d567",
+          "0004d57d"
+        ]
+      },
+      {
+        "frameId": "0004d552",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d559",
+        "textsInFrame": [
+          "0004d56a"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "BurariTessenTorimonocho",
+  "index": "10",
+  "framesOrder": [
+    "0000d6f3",
+    "0000d719",
+    "0000d71d",
+    "0000d716",
+    "0000d70b",
+    "0000d6f9",
+    "0000d6f2",
+    "0000d71c",
+    "0000d6fb",
+    "0000d70a",
+    "0000d6f4",
+    "0000d6ff"
+  ],
+  "textOrder": [
+    "0000d704",
+    "0000d710",
+    "0000d6fe",
+    "0000d70f",
+    "0000d70c",
+    "0000d6fc",
+    "0000d70e",
+    "0000d6fd",
+    "0000d6f6",
+    "0000d6f1",
+    "0000d71e",
+    "0000d708"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0000d6f3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000d719",
+        "textsInFrame": [
+          "0000d704",
+          "0000d710"
+        ]
+      },
+      {
+        "frameId": "0000d71d",
+        "textsInFrame": [
+          "0000d6fe",
+          "0000d70f"
+        ]
+      },
+      {
+        "frameId": "0000d716",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000d70b",
+        "textsInFrame": [
+          "0000d70c"
+        ]
+      },
+      {
+        "frameId": "0000d6f9",
+        "textsInFrame": [
+          "0000d6fc"
+        ]
+      },
+      {
+        "frameId": "0000d6f2",
+        "textsInFrame": [
+          "0000d70e"
+        ]
+      },
+      {
+        "frameId": "0000d71c",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000d6fb",
+        "textsInFrame": [
+          "0000d6fd",
+          "0000d6f6"
+        ]
+      },
+      {
+        "frameId": "0000d70a",
+        "textsInFrame": [
+          "0000d6f1"
+        ]
+      },
+      {
+        "frameId": "0000d6f4",
+        "textsInFrame": [
+          "0000d71e"
+        ]
+      },
+      {
+        "frameId": "0000d6ff",
+        "textsInFrame": [
+          "0000d708"
+        ]
+      }
+    ]
+  }
+}

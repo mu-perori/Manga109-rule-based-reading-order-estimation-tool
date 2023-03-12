@@ -1,0 +1,95 @@
+{
+  "title": "TasogareTsushin",
+  "index": "28",
+  "framesOrder": [
+    "00069dcb",
+    "00069de5",
+    "00069ddc",
+    "00069dc4",
+    "00069de1",
+    "00069de2",
+    "00069dd3",
+    "00069dd2",
+    "00069de7",
+    "00069de9"
+  ],
+  "textOrder": [
+    "00069de3",
+    "00069dc7",
+    "00069dce",
+    "00069de6",
+    "00069dd4",
+    "00069dde",
+    "00069de8",
+    "00069dd0",
+    "00069dd7",
+    "00069ddd",
+    "00069deb",
+    "00069dc6",
+    "00069ddf"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00069dcb",
+        "textsInFrame": [
+          "00069de3",
+          "00069dc7"
+        ]
+      },
+      {
+        "frameId": "00069de5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00069ddc",
+        "textsInFrame": [
+          "00069dce",
+          "00069de6"
+        ]
+      },
+      {
+        "frameId": "00069dc4",
+        "textsInFrame": [
+          "00069dd4"
+        ]
+      },
+      {
+        "frameId": "00069de1",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00069de2",
+        "textsInFrame": [
+          "00069dde",
+          "00069de8"
+        ]
+      },
+      {
+        "frameId": "00069dd3",
+        "textsInFrame": [
+          "00069dd0",
+          "00069dd7"
+        ]
+      },
+      {
+        "frameId": "00069dd2",
+        "textsInFrame": [
+          "00069ddd",
+          "00069deb"
+        ]
+      },
+      {
+        "frameId": "00069de7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00069de9",
+        "textsInFrame": [
+          "00069dc6",
+          "00069ddf"
+        ]
+      }
+    ]
+  }
+}

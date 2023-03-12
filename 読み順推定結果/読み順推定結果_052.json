@@ -1,0 +1,86 @@
+{
+  "title": "Ningyoushi",
+  "index": "64",
+  "framesOrder": [
+    "0004d486",
+    "0004d471",
+    "0004d47b",
+    "0004d468",
+    "0004d488",
+    "0004d477",
+    "0004d485",
+    "0004d47e",
+    "0004d47a"
+  ],
+  "textOrder": [
+    "0004d47f",
+    "0004d469",
+    "0004d46f",
+    "0004d480",
+    "0004d489",
+    "0004d487",
+    "0004d48a",
+    "0004d48b",
+    "0004d476",
+    "0004d46b",
+    "0004d484",
+    "0004d479"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0004d486",
+        "textsInFrame": [
+          "0004d47f",
+          "0004d469"
+        ]
+      },
+      {
+        "frameId": "0004d471",
+        "textsInFrame": [
+          "0004d46f",
+          "0004d480"
+        ]
+      },
+      {
+        "frameId": "0004d47b",
+        "textsInFrame": [
+          "0004d489"
+        ]
+      },
+      {
+        "frameId": "0004d468",
+        "textsInFrame": [
+          "0004d487",
+          "0004d48a",
+          "0004d48b"
+        ]
+      },
+      {
+        "frameId": "0004d488",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d477",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d485",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004d47e",
+        "textsInFrame": [
+          "0004d476",
+          "0004d46b",
+          "0004d484",
+          "0004d479"
+        ]
+      },
+      {
+        "frameId": "0004d47a",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

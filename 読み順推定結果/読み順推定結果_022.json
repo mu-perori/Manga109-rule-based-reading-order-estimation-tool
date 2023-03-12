@@ -1,0 +1,96 @@
+{
+  "title": "BEMADER_P",
+  "index": "45",
+  "framesOrder": [
+    "00007e79",
+    "00007e69",
+    "00007e7d",
+    "00007e90",
+    "00007e70",
+    "00007e8c",
+    "00007e67",
+    "00007ea4",
+    "00007ea7",
+    "00007e8d"
+  ],
+  "textOrder": [
+    "00007e6e",
+    "00007e7a",
+    "00007e6f",
+    "00007e78",
+    "00007ea1",
+    "00007e8f",
+    "00007e9d",
+    "00007ea2",
+    "00007e9c",
+    "00007e9a",
+    "00007e75",
+    "00007e87",
+    "00007e89"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00007e79",
+        "textsInFrame": [
+          "00007e6e",
+          "00007e7a"
+        ]
+      },
+      {
+        "frameId": "00007e69",
+        "textsInFrame": [
+          "00007e6f",
+          "00007e78"
+        ]
+      },
+      {
+        "frameId": "00007e7d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00007e90",
+        "textsInFrame": [
+          "00007ea1",
+          "00007e8f"
+        ]
+      },
+      {
+        "frameId": "00007e70",
+        "textsInFrame": [
+          "00007e9d",
+          "00007ea2"
+        ]
+      },
+      {
+        "frameId": "00007e8c",
+        "textsInFrame": [
+          "00007e9c"
+        ]
+      },
+      {
+        "frameId": "00007e67",
+        "textsInFrame": [
+          "00007e9a"
+        ]
+      },
+      {
+        "frameId": "00007ea4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00007ea7",
+        "textsInFrame": [
+          "00007e75"
+        ]
+      },
+      {
+        "frameId": "00007e8d",
+        "textsInFrame": [
+          "00007e87",
+          "00007e89"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "HisokaReturns",
+  "index": "46",
+  "framesOrder": [
+    "00028a41",
+    "00028a2f",
+    "00028a28",
+    "00028a49",
+    "00028a35",
+    "00028a44",
+    "00028a2a",
+    "00028a45",
+    "00028a3f",
+    "00028a3b",
+    "00028a2b"
+  ],
+  "textOrder": [
+    "00028a4d",
+    "00028a2c",
+    "00028a3d",
+    "00028a33",
+    "00028a38",
+    "00028a3a"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00028a41",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00028a2f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00028a28",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00028a49",
+        "textsInFrame": [
+          "00028a4d",
+          "00028a2c"
+        ]
+      },
+      {
+        "frameId": "00028a35",
+        "textsInFrame": [
+          "00028a3d"
+        ]
+      },
+      {
+        "frameId": "00028a44",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00028a2a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00028a45",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00028a3f",
+        "textsInFrame": [
+          "00028a33",
+          "00028a38"
+        ]
+      },
+      {
+        "frameId": "00028a3b",
+        "textsInFrame": [
+          "00028a3a"
+        ]
+      },
+      {
+        "frameId": "00028a2b",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

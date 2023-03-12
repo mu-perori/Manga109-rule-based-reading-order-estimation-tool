@@ -1,0 +1,82 @@
+{
+  "title": "SyabondamaKieta",
+  "index": "55",
+  "framesOrder": [
+    "000670c9",
+    "000670d7",
+    "000670d5",
+    "000670ca",
+    "000670d3",
+    "000670ce",
+    "000670db",
+    "000670e2",
+    "000670dc",
+    "000670e4",
+    "000670d1",
+    "000670da"
+  ],
+  "textOrder": [
+    "000670d4",
+    "000670d6",
+    "000670e6",
+    "000670e5"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000670c9",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670d7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670d5",
+        "textsInFrame": [
+          "000670d4",
+          "000670d6"
+        ]
+      },
+      {
+        "frameId": "000670ca",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670d3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670ce",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670db",
+        "textsInFrame": [
+          "000670e6",
+          "000670e5"
+        ]
+      },
+      {
+        "frameId": "000670e2",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670dc",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670e4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670d1",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000670da",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

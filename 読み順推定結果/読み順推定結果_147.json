@@ -1,0 +1,90 @@
+{
+  "title": "KimiHaBokuNoTaiyouDa",
+  "index": "99",
+  "framesOrder": [
+    "00030c5b",
+    "00030c71",
+    "00030c4c",
+    "00030c73",
+    "00030c4d",
+    "00030c59",
+    "00030c61",
+    "00030c5a",
+    "00030c6a",
+    "00030c6e",
+    "00030c63"
+  ],
+  "textOrder": [
+    "00030c6b",
+    "00030c68",
+    "00030c67",
+    "00030c66",
+    "00030c60",
+    "00030c4f",
+    "00030c55",
+    "00030c6d"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00030c5b",
+        "textsInFrame": [
+          "00030c6b"
+        ]
+      },
+      {
+        "frameId": "00030c71",
+        "textsInFrame": [
+          "00030c68"
+        ]
+      },
+      {
+        "frameId": "00030c4c",
+        "textsInFrame": [
+          "00030c67",
+          "00030c66"
+        ]
+      },
+      {
+        "frameId": "00030c73",
+        "textsInFrame": [
+          "00030c60"
+        ]
+      },
+      {
+        "frameId": "00030c4d",
+        "textsInFrame": [
+          "00030c4f"
+        ]
+      },
+      {
+        "frameId": "00030c59",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00030c61",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00030c5a",
+        "textsInFrame": [
+          "00030c55"
+        ]
+      },
+      {
+        "frameId": "00030c6a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00030c6e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00030c63",
+        "textsInFrame": [
+          "00030c6d"
+        ]
+      }
+    ]
+  }
+}

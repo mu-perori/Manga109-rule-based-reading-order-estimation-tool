@@ -1,0 +1,120 @@
+{
+  "title": "MayaNoAkaiKutsu",
+  "index": "10",
+  "framesOrder": [
+    "0003d3f6",
+    "0003d3dc",
+    "0003d3cc",
+    "0003d3cb",
+    "0003d3cf",
+    "0003d40b",
+    "0003d410",
+    "0003d3f1",
+    "0003d411",
+    "0003d401",
+    "0003d3d4"
+  ],
+  "textOrder": [
+    "0003d3f4",
+    "0003d3dd",
+    "0003d3fb",
+    "0003d3f5",
+    "0003d407",
+    "0003d40c",
+    "0003d3e7",
+    "0003d3d9",
+    "0003d40e",
+    "0003d413",
+    "0003d3f2",
+    "0003d3d7",
+    "0003d3d0",
+    "0003d3cd",
+    "0003d40d",
+    "0003d3d6",
+    "0003d3e2",
+    "0003d3ce",
+    "0003d40f",
+    "0003d3ea",
+    "0003d3f3"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003d3f6",
+        "textsInFrame": [
+          "0003d3f4",
+          "0003d3dd"
+        ]
+      },
+      {
+        "frameId": "0003d3dc",
+        "textsInFrame": [
+          "0003d3fb",
+          "0003d3f5"
+        ]
+      },
+      {
+        "frameId": "0003d3cc",
+        "textsInFrame": [
+          "0003d407"
+        ]
+      },
+      {
+        "frameId": "0003d3cb",
+        "textsInFrame": [
+          "0003d40c",
+          "0003d3e7"
+        ]
+      },
+      {
+        "frameId": "0003d3cf",
+        "textsInFrame": [
+          "0003d3d9",
+          "0003d40e",
+          "0003d413"
+        ]
+      },
+      {
+        "frameId": "0003d40b",
+        "textsInFrame": [
+          "0003d3f2",
+          "0003d3d7",
+          "0003d3d0"
+        ]
+      },
+      {
+        "frameId": "0003d410",
+        "textsInFrame": [
+          "0003d3cd",
+          "0003d40d"
+        ]
+      },
+      {
+        "frameId": "0003d3f1",
+        "textsInFrame": [
+          "0003d3d6"
+        ]
+      },
+      {
+        "frameId": "0003d411",
+        "textsInFrame": [
+          "0003d3e2",
+          "0003d3ce"
+        ]
+      },
+      {
+        "frameId": "0003d401",
+        "textsInFrame": [
+          "0003d40f",
+          "0003d3ea"
+        ]
+      },
+      {
+        "frameId": "0003d3d4",
+        "textsInFrame": [
+          "0003d3f3"
+        ]
+      }
+    ]
+  }
+}

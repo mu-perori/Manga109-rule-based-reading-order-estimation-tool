@@ -1,0 +1,74 @@
+{
+  "title": "KuroidoGanka",
+  "index": "15",
+  "framesOrder": [
+    "00032eab",
+    "00032eac",
+    "00032eb7",
+    "00032ea5",
+    "00032ea6",
+    "00032eaa",
+    "00032ebd",
+    "00032ea2"
+  ],
+  "textOrder": [
+    "00032eba",
+    "00032eaf",
+    "00032ec1",
+    "00032eae",
+    "00032ec2",
+    "00032ea7",
+    "00032eb4",
+    "00032eb2",
+    "00032ebc"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00032eab",
+        "textsInFrame": [
+          "00032eba",
+          "00032eaf",
+          "00032ec1"
+        ]
+      },
+      {
+        "frameId": "00032eac",
+        "textsInFrame": [
+          "00032eae",
+          "00032ec2"
+        ]
+      },
+      {
+        "frameId": "00032eb7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00032ea5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00032ea6",
+        "textsInFrame": [
+          "00032ea7",
+          "00032eb4"
+        ]
+      },
+      {
+        "frameId": "00032eaa",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00032ebd",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00032ea2",
+        "textsInFrame": [
+          "00032eb2",
+          "00032ebc"
+        ]
+      }
+    ]
+  }
+}

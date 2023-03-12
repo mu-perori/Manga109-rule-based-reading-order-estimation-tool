@@ -1,0 +1,96 @@
+{
+  "title": "MutekiBoukenSyakuma",
+  "index": "76",
+  "framesOrder": [
+    "00049e12",
+    "00049e0e",
+    "00049e19",
+    "00049e17",
+    "00049e2b",
+    "00049e3a",
+    "00049e26",
+    "00049e18",
+    "00049e23",
+    "00049e1d"
+  ],
+  "textOrder": [
+    "00049e1c",
+    "00049e37",
+    "00049e31",
+    "00049e1b",
+    "00049e40",
+    "00049e34",
+    "00049e1a",
+    "00049e11",
+    "00049e28",
+    "00049e3e",
+    "00049e24",
+    "00049e2a",
+    "00049e3b"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00049e12",
+        "textsInFrame": [
+          "00049e1c",
+          "00049e37"
+        ]
+      },
+      {
+        "frameId": "00049e0e",
+        "textsInFrame": [
+          "00049e31",
+          "00049e1b"
+        ]
+      },
+      {
+        "frameId": "00049e19",
+        "textsInFrame": [
+          "00049e40",
+          "00049e34"
+        ]
+      },
+      {
+        "frameId": "00049e17",
+        "textsInFrame": [
+          "00049e1a",
+          "00049e11"
+        ]
+      },
+      {
+        "frameId": "00049e2b",
+        "textsInFrame": [
+          "00049e28",
+          "00049e3e"
+        ]
+      },
+      {
+        "frameId": "00049e3a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00049e26",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00049e18",
+        "textsInFrame": [
+          "00049e24"
+        ]
+      },
+      {
+        "frameId": "00049e23",
+        "textsInFrame": [
+          "00049e2a"
+        ]
+      },
+      {
+        "frameId": "00049e1d",
+        "textsInFrame": [
+          "00049e3b"
+        ]
+      }
+    ]
+  }
+}

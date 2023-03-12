@@ -1,0 +1,101 @@
+{
+  "title": "MariaSamaNihaNaisyo",
+  "index": "17",
+  "framesOrder": [
+    "0003c495",
+    "0003c49e",
+    "0003c483",
+    "0003c49d",
+    "0003c4a4",
+    "0003c48f",
+    "0003c49b",
+    "0003c496",
+    "0003c498",
+    "0003c493",
+    "0003c48a"
+  ],
+  "textOrder": [
+    "0003c4a5",
+    "0003c4a3",
+    "0003c49f",
+    "0003c49c",
+    "0003c4a8",
+    "0003c4a6",
+    "0003c487",
+    "0003c48d",
+    "0003c4a9",
+    "0003c486",
+    "0003c497",
+    "0003c4a1"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003c495",
+        "textsInFrame": [
+          "0003c4a5"
+        ]
+      },
+      {
+        "frameId": "0003c49e",
+        "textsInFrame": [
+          "0003c4a3"
+        ]
+      },
+      {
+        "frameId": "0003c483",
+        "textsInFrame": [
+          "0003c49f"
+        ]
+      },
+      {
+        "frameId": "0003c49d",
+        "textsInFrame": [
+          "0003c49c",
+          "0003c4a8"
+        ]
+      },
+      {
+        "frameId": "0003c4a4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003c48f",
+        "textsInFrame": [
+          "0003c4a6"
+        ]
+      },
+      {
+        "frameId": "0003c49b",
+        "textsInFrame": [
+          "0003c487"
+        ]
+      },
+      {
+        "frameId": "0003c496",
+        "textsInFrame": [
+          "0003c48d"
+        ]
+      },
+      {
+        "frameId": "0003c498",
+        "textsInFrame": [
+          "0003c4a9"
+        ]
+      },
+      {
+        "frameId": "0003c493",
+        "textsInFrame": [
+          "0003c486",
+          "0003c497"
+        ]
+      },
+      {
+        "frameId": "0003c48a",
+        "textsInFrame": [
+          "0003c4a1"
+        ]
+      }
+    ]
+  }
+}

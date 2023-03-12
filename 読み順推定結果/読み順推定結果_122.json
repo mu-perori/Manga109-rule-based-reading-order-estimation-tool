@@ -1,0 +1,123 @@
+{
+  "title": "ToutaMairimasu",
+  "index": "60",
+  "framesOrder": [
+    "00070eb0",
+    "00070e76",
+    "00070e54",
+    "00070ea7",
+    "00070e56",
+    "00070e72",
+    "00070e59",
+    "00070e55",
+    "00070e58",
+    "00070e4f",
+    "00070e92",
+    "00070e98",
+    "00070e90"
+  ],
+  "textOrder": [
+    "00070ea8",
+    "00070e65",
+    "00070ea1",
+    "00070eaa",
+    "00070e93",
+    "00070e60",
+    "00070e81",
+    "00070eaf",
+    "00070e6a",
+    "00070e85",
+    "00070e7e",
+    "00070e70",
+    "00070e51",
+    "00070e53",
+    "00070e8f",
+    "00070e7b",
+    "00070e52",
+    "00070eb3"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00070eb0",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00070e76",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00070e54",
+        "textsInFrame": [
+          "00070ea8",
+          "00070e65"
+        ]
+      },
+      {
+        "frameId": "00070ea7",
+        "textsInFrame": [
+          "00070ea1",
+          "00070eaa"
+        ]
+      },
+      {
+        "frameId": "00070e56",
+        "textsInFrame": [
+          "00070e93",
+          "00070e60"
+        ]
+      },
+      {
+        "frameId": "00070e72",
+        "textsInFrame": [
+          "00070e81"
+        ]
+      },
+      {
+        "frameId": "00070e59",
+        "textsInFrame": [
+          "00070eaf"
+        ]
+      },
+      {
+        "frameId": "00070e55",
+        "textsInFrame": [
+          "00070e6a"
+        ]
+      },
+      {
+        "frameId": "00070e58",
+        "textsInFrame": [
+          "00070e85",
+          "00070e7e"
+        ]
+      },
+      {
+        "frameId": "00070e4f",
+        "textsInFrame": [
+          "00070e70",
+          "00070e51"
+        ]
+      },
+      {
+        "frameId": "00070e92",
+        "textsInFrame": [
+          "00070e53",
+          "00070e8f"
+        ]
+      },
+      {
+        "frameId": "00070e98",
+        "textsInFrame": [
+          "00070e7b",
+          "00070e52",
+          "00070eb3"
+        ]
+      },
+      {
+        "frameId": "00070e90",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

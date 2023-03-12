@@ -1,0 +1,64 @@
+{
+  "title": "ToutaMairimasu",
+  "index": "97",
+  "framesOrder": [
+    "00071558",
+    "00071549",
+    "0007155b",
+    "00071552",
+    "00071563",
+    "0007155d",
+    "00071560"
+  ],
+  "textOrder": [
+    "00071542",
+    "0007155a",
+    "0007154f",
+    "00071565",
+    "00071555",
+    "00071559"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00071558",
+        "textsInFrame": [
+          "00071542"
+        ]
+      },
+      {
+        "frameId": "00071549",
+        "textsInFrame": [
+          "0007155a",
+          "0007154f"
+        ]
+      },
+      {
+        "frameId": "0007155b",
+        "textsInFrame": [
+          "00071565"
+        ]
+      },
+      {
+        "frameId": "00071552",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00071563",
+        "textsInFrame": [
+          "00071555"
+        ]
+      },
+      {
+        "frameId": "0007155d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00071560",
+        "textsInFrame": [
+          "00071559"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "MeteoSanStrikeDesu",
+  "index": "9",
+  "framesOrder": [
+    "0003efee",
+    "0003eff3",
+    "0003effd",
+    "0003efe8",
+    "0003eff0",
+    "0003efe6",
+    "0003efeb"
+  ],
+  "textOrder": [
+    "0003efea",
+    "0003efe9",
+    "0003effb",
+    "0003effe",
+    "0003effa",
+    "0003efe5"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003efee",
+        "textsInFrame": [
+          "0003efea"
+        ]
+      },
+      {
+        "frameId": "0003eff3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003effd",
+        "textsInFrame": [
+          "0003efe9"
+        ]
+      },
+      {
+        "frameId": "0003efe8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003eff0",
+        "textsInFrame": [
+          "0003effb"
+        ]
+      },
+      {
+        "frameId": "0003efe6",
+        "textsInFrame": [
+          "0003effe",
+          "0003effa"
+        ]
+      },
+      {
+        "frameId": "0003efeb",
+        "textsInFrame": [
+          "0003efe5"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "title": "TetsuSan",
+  "index": "8",
+  "framesOrder": [
+    "0006d018",
+    "0006d004",
+    "0006d001",
+    "0006cff7",
+    "0006d02d",
+    "0006d01a",
+    "0006cfe1",
+    "0006d026",
+    "0006cfd2",
+    "0006cffb",
+    "0006cfe0",
+    "0006cfff",
+    "0006cff3",
+    "0006d024",
+    "0006d036",
+    "0006d020",
+    "0006d006",
+    "0006d01f",
+    "0006d02b",
+    "0006d021"
+  ],
+  "textOrder": [
+    "0006d00e",
+    "0006d015",
+    "0006d01b",
+    "0006cfd6",
+    "0006d011",
+    "0006d02e",
+    "0006d01c",
+    "0006d00f",
+    "0006cfe5",
+    "0006d017",
+    "0006cfed",
+    "0006cfdd",
+    "0006cfd4",
+    "0006cfe3",
+    "0006cfd0",
+    "0006cfdb",
+    "0006d008",
+    "0006cff2",
+    "0006cfea",
+    "0006d035",
+    "0006cfda",
+    "0006cfdf",
+    "0006d01e",
+    "0006d012",
+    "0006d005",
+    "0006cff0",
+    "0006cfd5",
+    "0006d034",
+    "0006cfe7",
+    "0006cff8",
+    "0006cfcf"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0006d018",
+        "textsInFrame": [
+          "0006d00e"
+        ]
+      },
+      {
+        "frameId": "0006d004",
+        "textsInFrame": [
+          "0006d015",
+          "0006d01b"
+        ]
+      },
+      {
+        "frameId": "0006d001",
+        "textsInFrame": [
+          "0006cfd6",
+          "0006d011"
+        ]
+      },
+      {
+        "frameId": "0006cff7",
+        "textsInFrame": [
+          "0006d02e"
+        ]
+      },
+      {
+        "frameId": "0006d02d",
+        "textsInFrame": [
+          "0006d01c",
+          "0006d00f"
+        ]
+      },
+      {
+        "frameId": "0006d01a",
+        "textsInFrame": [
+          "0006cfe5"
+        ]
+      },
+      {
+        "frameId": "0006cfe1",
+        "textsInFrame": [
+          "0006d017"
+        ]
+      },
+      {
+        "frameId": "0006d026",
+        "textsInFrame": [
+          "0006cfed",
+          "0006cfdd"
+        ]
+      },
+      {
+        "frameId": "0006cfd2",
+        "textsInFrame": [
+          "0006cfd4",
+          "0006cfe3"
+        ]
+      },
+      {
+        "frameId": "0006cffb",
+        "textsInFrame": [
+          "0006cfd0",
+          "0006cfdb"
+        ]
+      },
+      {
+        "frameId": "0006cfe0",
+        "textsInFrame": [
+          "0006d008"
+        ]
+      },
+      {
+        "frameId": "0006cfff",
+        "textsInFrame": [
+          "0006cff2"
+        ]
+      },
+      {
+        "frameId": "0006cff3",
+        "textsInFrame": [
+          "0006cfea",
+          "0006d035"
+        ]
+      },
+      {
+        "frameId": "0006d024",
+        "textsInFrame": [
+          "0006cfda"
+        ]
+      },
+      {
+        "frameId": "0006d036",
+        "textsInFrame": [
+          "0006cfdf",
+          "0006d01e"
+        ]
+      },
+      {
+        "frameId": "0006d020",
+        "textsInFrame": [
+          "0006d012",
+          "0006d005"
+        ]
+      },
+      {
+        "frameId": "0006d006",
+        "textsInFrame": [
+          "0006cff0",
+          "0006cfd5"
+        ]
+      },
+      {
+        "frameId": "0006d01f",
+        "textsInFrame": [
+          "0006d034"
+        ]
+      },
+      {
+        "frameId": "0006d02b",
+        "textsInFrame": [
+          "0006cfe7",
+          "0006cff8"
+        ]
+      },
+      {
+        "frameId": "0006d021",
+        "textsInFrame": [
+          "0006cfcf"
+        ]
+      }
+    ]
+  }
+}

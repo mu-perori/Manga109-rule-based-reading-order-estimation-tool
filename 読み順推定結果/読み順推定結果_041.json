@@ -1,0 +1,126 @@
+{
+  "title": "MeteoSanStrikeDesu",
+  "index": "66",
+  "framesOrder": [
+    "0003f8f8",
+    "0003f8eb",
+    "0003f8d7",
+    "0003f8ba",
+    "0003f8cf",
+    "0003f8e5",
+    "0003f8f7",
+    "0003f8ce",
+    "0003f8ed",
+    "0003f8e2",
+    "0003f8ee"
+  ],
+  "textOrder": [
+    "0003f8cd",
+    "0003f8c2",
+    "0003f8d8",
+    "0003f8f0",
+    "0003f8ef",
+    "0003f8f1",
+    "0003f8dd",
+    "0003f8d0",
+    "0003f8b0",
+    "0003f8ca",
+    "0003f8c6",
+    "0003f8e3",
+    "0003f8de",
+    "0003f8d1",
+    "0003f8f2",
+    "0003f8df",
+    "0003f8e6",
+    "0003f8ae",
+    "0003f8e8",
+    "0003f8c9",
+    "0003f8b1",
+    "0003f8fd",
+    "0003f8cc",
+    "0003f8b9"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003f8f8",
+        "textsInFrame": [
+          "0003f8cd",
+          "0003f8c2"
+        ]
+      },
+      {
+        "frameId": "0003f8eb",
+        "textsInFrame": [
+          "0003f8d8"
+        ]
+      },
+      {
+        "frameId": "0003f8d7",
+        "textsInFrame": [
+          "0003f8f0",
+          "0003f8ef"
+        ]
+      },
+      {
+        "frameId": "0003f8ba",
+        "textsInFrame": [
+          "0003f8f1",
+          "0003f8dd"
+        ]
+      },
+      {
+        "frameId": "0003f8cf",
+        "textsInFrame": [
+          "0003f8d0",
+          "0003f8b0",
+          "0003f8ca"
+        ]
+      },
+      {
+        "frameId": "0003f8e5",
+        "textsInFrame": [
+          "0003f8c6",
+          "0003f8e3",
+          "0003f8de",
+          "0003f8d1"
+        ]
+      },
+      {
+        "frameId": "0003f8f7",
+        "textsInFrame": [
+          "0003f8f2",
+          "0003f8df",
+          "0003f8e6"
+        ]
+      },
+      {
+        "frameId": "0003f8ce",
+        "textsInFrame": [
+          "0003f8ae"
+        ]
+      },
+      {
+        "frameId": "0003f8ed",
+        "textsInFrame": [
+          "0003f8e8",
+          "0003f8c9"
+        ]
+      },
+      {
+        "frameId": "0003f8e2",
+        "textsInFrame": [
+          "0003f8b1",
+          "0003f8fd",
+          "0003f8cc"
+        ]
+      },
+      {
+        "frameId": "0003f8ee",
+        "textsInFrame": [
+          "0003f8b9"
+        ]
+      }
+    ]
+  }
+}

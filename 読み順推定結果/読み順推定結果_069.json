@@ -1,0 +1,106 @@
+{
+  "title": "ShimatteIkouze_vol01",
+  "index": "105",
+  "framesOrder": [
+    "000637e1",
+    "000637e9",
+    "000637c3",
+    "000637c4",
+    "000637fa",
+    "000637b8",
+    "000637dd",
+    "000637f7",
+    "000637f4",
+    "000637f9",
+    "000637ec"
+  ],
+  "textOrder": [
+    "000637e4",
+    "000637d8",
+    "000637fe",
+    "000637f0",
+    "000637eb",
+    "000637d3",
+    "000637e0",
+    "000637c7",
+    "000637c0",
+    "000637f8",
+    "000637d5",
+    "000637cf",
+    "000637d6",
+    "00063803",
+    "000637fd"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000637e1",
+        "textsInFrame": [
+          "000637e4",
+          "000637d8",
+          "000637fe"
+        ]
+      },
+      {
+        "frameId": "000637e9",
+        "textsInFrame": [
+          "000637f0",
+          "000637eb"
+        ]
+      },
+      {
+        "frameId": "000637c3",
+        "textsInFrame": [
+          "000637d3",
+          "000637e0",
+          "000637c7"
+        ]
+      },
+      {
+        "frameId": "000637c4",
+        "textsInFrame": [
+          "000637c0"
+        ]
+      },
+      {
+        "frameId": "000637fa",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000637b8",
+        "textsInFrame": [
+          "000637f8"
+        ]
+      },
+      {
+        "frameId": "000637dd",
+        "textsInFrame": [
+          "000637d5",
+          "000637cf"
+        ]
+      },
+      {
+        "frameId": "000637f7",
+        "textsInFrame": [
+          "000637d6"
+        ]
+      },
+      {
+        "frameId": "000637f4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000637f9",
+        "textsInFrame": [
+          "00063803"
+        ]
+      },
+      {
+        "frameId": "000637ec",
+        "textsInFrame": [
+          "000637fd"
+        ]
+      }
+    ]
+  }
+}

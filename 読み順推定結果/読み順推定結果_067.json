@@ -1,0 +1,104 @@
+{
+  "title": "RisingGirl",
+  "index": "114",
+  "framesOrder": [
+    "0005ccd2",
+    "0005cccf",
+    "0005ccd1",
+    "0005ccc2",
+    "0005cccb",
+    "0005ccd6",
+    "0005ccdb",
+    "0005ccd0",
+    "0005ccc1",
+    "0005cccc",
+    "0005ccc3"
+  ],
+  "textOrder": [
+    "0005ccd4",
+    "0005ccd7",
+    "0005ccbc",
+    "0005ccc4",
+    "0005ccbb",
+    "0005ccbf",
+    "0005ccdc",
+    "0005cccd",
+    "0005ccc6",
+    "0005ccda",
+    "0005ccd5",
+    "0005ccc8",
+    "0005ccc7",
+    "0005ccd9"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0005ccd2",
+        "textsInFrame": [
+          "0005ccd4",
+          "0005ccd7"
+        ]
+      },
+      {
+        "frameId": "0005cccf",
+        "textsInFrame": [
+          "0005ccbc"
+        ]
+      },
+      {
+        "frameId": "0005ccd1",
+        "textsInFrame": [
+          "0005ccc4"
+        ]
+      },
+      {
+        "frameId": "0005ccc2",
+        "textsInFrame": [
+          "0005ccbb",
+          "0005ccbf"
+        ]
+      },
+      {
+        "frameId": "0005cccb",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0005ccd6",
+        "textsInFrame": [
+          "0005ccdc"
+        ]
+      },
+      {
+        "frameId": "0005ccdb",
+        "textsInFrame": [
+          "0005cccd",
+          "0005ccc6"
+        ]
+      },
+      {
+        "frameId": "0005ccd0",
+        "textsInFrame": [
+          "0005ccda"
+        ]
+      },
+      {
+        "frameId": "0005ccc1",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0005cccc",
+        "textsInFrame": [
+          "0005ccd5",
+          "0005ccc8"
+        ]
+      },
+      {
+        "frameId": "0005ccc3",
+        "textsInFrame": [
+          "0005ccc7",
+          "0005ccd9"
+        ]
+      }
+    ]
+  }
+}

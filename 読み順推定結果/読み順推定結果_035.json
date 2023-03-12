@@ -1,0 +1,161 @@
+{
+  "title": "JijiBabaFight",
+  "index": "37",
+  "framesOrder": [
+    "0002bb4a",
+    "0002bb38",
+    "0002bb14",
+    "0002bb2b",
+    "0002bb21",
+    "0002bb57",
+    "0002bb40",
+    "0002bb12",
+    "0002bb45",
+    "0002bb3b",
+    "0002bb1a",
+    "0002bafe",
+    "0002baff",
+    "0002bb19"
+  ],
+  "textOrder": [
+    "0002baf6",
+    "0002bb53",
+    "0002baf4",
+    "0002bb1f",
+    "0002bb06",
+    "0002bb42",
+    "0002bb4f",
+    "0002baf5",
+    "0002bb2f",
+    "0002bb2e",
+    "0002bb3f",
+    "0002bb32",
+    "0002bb0b",
+    "0002baf7",
+    "0002baf9",
+    "0002bb0a",
+    "0002bb3c",
+    "0002bb4c",
+    "0002bb15",
+    "0002bb4d",
+    "0002bb4b",
+    "0002bb22",
+    "0002bb05",
+    "0002bb37",
+    "0002bb01",
+    "0002bb0e",
+    "0002bb2a",
+    "0002bb4e",
+    "0002bb08",
+    "0002bb1c",
+    "0002bb58",
+    "0002bb3a",
+    "0002bb1b"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0002bb4a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0002bb38",
+        "textsInFrame": [
+          "0002baf6",
+          "0002bb53"
+        ]
+      },
+      {
+        "frameId": "0002bb14",
+        "textsInFrame": [
+          "0002baf4",
+          "0002bb1f",
+          "0002bb06"
+        ]
+      },
+      {
+        "frameId": "0002bb2b",
+        "textsInFrame": [
+          "0002bb42",
+          "0002bb4f"
+        ]
+      },
+      {
+        "frameId": "0002bb21",
+        "textsInFrame": [
+          "0002baf5",
+          "0002bb2f"
+        ]
+      },
+      {
+        "frameId": "0002bb57",
+        "textsInFrame": [
+          "0002bb2e",
+          "0002bb3f",
+          "0002bb32"
+        ]
+      },
+      {
+        "frameId": "0002bb40",
+        "textsInFrame": [
+          "0002bb0b",
+          "0002baf7"
+        ]
+      },
+      {
+        "frameId": "0002bb12",
+        "textsInFrame": [
+          "0002baf9",
+          "0002bb0a"
+        ]
+      },
+      {
+        "frameId": "0002bb45",
+        "textsInFrame": [
+          "0002bb3c",
+          "0002bb4c",
+          "0002bb15"
+        ]
+      },
+      {
+        "frameId": "0002bb3b",
+        "textsInFrame": [
+          "0002bb4d",
+          "0002bb4b"
+        ]
+      },
+      {
+        "frameId": "0002bb1a",
+        "textsInFrame": [
+          "0002bb22",
+          "0002bb05",
+          "0002bb37"
+        ]
+      },
+      {
+        "frameId": "0002bafe",
+        "textsInFrame": [
+          "0002bb01",
+          "0002bb0e",
+          "0002bb2a",
+          "0002bb4e"
+        ]
+      },
+      {
+        "frameId": "0002baff",
+        "textsInFrame": [
+          "0002bb08",
+          "0002bb1c"
+        ]
+      },
+      {
+        "frameId": "0002bb19",
+        "textsInFrame": [
+          "0002bb58",
+          "0002bb3a",
+          "0002bb1b"
+        ]
+      }
+    ]
+  }
+}

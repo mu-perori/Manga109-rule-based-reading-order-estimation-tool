@@ -1,0 +1,172 @@
+{
+  "title": "YouchienBoueigumi",
+  "index": "6",
+  "framesOrder": [
+    "0007ccad",
+    "0007ccde",
+    "0007cccb",
+    "0007ccc7",
+    "0007cc8e",
+    "0007ccc9",
+    "0007cc89",
+    "0007ccd7",
+    "0007cc8c",
+    "0007ccd8",
+    "0007ccbc",
+    "0007cce4",
+    "0007cc8b",
+    "0007ccb8",
+    "0007cc9e",
+    "0007cc81"
+  ],
+  "textOrder": [
+    "0007ccd3",
+    "0007ccb7",
+    "0007cca6",
+    "0007cc85",
+    "0007cc79",
+    "0007cce8",
+    "0007ccd5",
+    "0007cca9",
+    "0007ccd0",
+    "0007cc7d",
+    "0007cca5",
+    "0007cc78",
+    "0007cc87",
+    "0007ccb6",
+    "0007cca4",
+    "0007cce1",
+    "0007cc7e",
+    "0007ccdb",
+    "0007cccc",
+    "0007cce0",
+    "0007ccd1",
+    "0007ccd2",
+    "0007ccd6",
+    "0007cc9a",
+    "0007ccbf",
+    "0007ccd9",
+    "0007cc98",
+    "0007cc8f",
+    "0007cc92",
+    "0007cc7b",
+    "0007ccc1",
+    "0007cce6"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007ccad",
+        "textsInFrame": [
+          "0007ccd3",
+          "0007ccb7",
+          "0007cca6"
+        ]
+      },
+      {
+        "frameId": "0007ccde",
+        "textsInFrame": [
+          "0007cc85"
+        ]
+      },
+      {
+        "frameId": "0007cccb",
+        "textsInFrame": [
+          "0007cc79",
+          "0007cce8"
+        ]
+      },
+      {
+        "frameId": "0007ccc7",
+        "textsInFrame": [
+          "0007ccd5",
+          "0007cca9",
+          "0007ccd0",
+          "0007cc7d"
+        ]
+      },
+      {
+        "frameId": "0007cc8e",
+        "textsInFrame": [
+          "0007cca5"
+        ]
+      },
+      {
+        "frameId": "0007ccc9",
+        "textsInFrame": [
+          "0007cc78",
+          "0007cc87"
+        ]
+      },
+      {
+        "frameId": "0007cc89",
+        "textsInFrame": [
+          "0007ccb6",
+          "0007cca4",
+          "0007cce1"
+        ]
+      },
+      {
+        "frameId": "0007ccd7",
+        "textsInFrame": [
+          "0007cc7e",
+          "0007ccdb"
+        ]
+      },
+      {
+        "frameId": "0007cc8c",
+        "textsInFrame": [
+          "0007cccc"
+        ]
+      },
+      {
+        "frameId": "0007ccd8",
+        "textsInFrame": [
+          "0007cce0"
+        ]
+      },
+      {
+        "frameId": "0007ccbc",
+        "textsInFrame": [
+          "0007ccd1",
+          "0007ccd2"
+        ]
+      },
+      {
+        "frameId": "0007cce4",
+        "textsInFrame": [
+          "0007ccd6",
+          "0007cc9a"
+        ]
+      },
+      {
+        "frameId": "0007cc8b",
+        "textsInFrame": [
+          "0007ccbf",
+          "0007ccd9"
+        ]
+      },
+      {
+        "frameId": "0007ccb8",
+        "textsInFrame": [
+          "0007cc98"
+        ]
+      },
+      {
+        "frameId": "0007cc9e",
+        "textsInFrame": [
+          "0007cc8f",
+          "0007cc92"
+        ]
+      },
+      {
+        "frameId": "0007cc81",
+        "textsInFrame": [
+          "0007cc7b",
+          "0007ccc1",
+          "0007cce6"
+        ]
+      }
+    ]
+  }
+}

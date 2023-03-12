@@ -1,0 +1,103 @@
+{
+  "title": "TensiNoHaneToAkumaNoShippo",
+  "index": "68",
+  "framesOrder": [
+    "0006c89e",
+    "0006c883",
+    "0006c887",
+    "0006c8a0",
+    "0006c872",
+    "0006c891",
+    "0006c88e",
+    "0006c88d",
+    "0006c87a",
+    "0006c892",
+    "0006c88b"
+  ],
+  "textOrder": [
+    "0006c895",
+    "0006c873",
+    "0006c875",
+    "0006c8a5",
+    "0006c874",
+    "0006c89b",
+    "0006c877",
+    "0006c879",
+    "0006c878",
+    "0006c88c",
+    "0006c87d",
+    "0006c882",
+    "0006c897"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0006c89e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0006c883",
+        "textsInFrame": [
+          "0006c895",
+          "0006c873"
+        ]
+      },
+      {
+        "frameId": "0006c887",
+        "textsInFrame": [
+          "0006c875",
+          "0006c8a5"
+        ]
+      },
+      {
+        "frameId": "0006c8a0",
+        "textsInFrame": [
+          "0006c874"
+        ]
+      },
+      {
+        "frameId": "0006c872",
+        "textsInFrame": [
+          "0006c89b",
+          "0006c877"
+        ]
+      },
+      {
+        "frameId": "0006c891",
+        "textsInFrame": [
+          "0006c879"
+        ]
+      },
+      {
+        "frameId": "0006c88e",
+        "textsInFrame": [
+          "0006c878"
+        ]
+      },
+      {
+        "frameId": "0006c88d",
+        "textsInFrame": [
+          "0006c88c"
+        ]
+      },
+      {
+        "frameId": "0006c87a",
+        "textsInFrame": [
+          "0006c87d"
+        ]
+      },
+      {
+        "frameId": "0006c892",
+        "textsInFrame": [
+          "0006c882"
+        ]
+      },
+      {
+        "frameId": "0006c88b",
+        "textsInFrame": [
+          "0006c897"
+        ]
+      }
+    ]
+  }
+}

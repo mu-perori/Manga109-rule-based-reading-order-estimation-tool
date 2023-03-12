@@ -1,0 +1,99 @@
+{
+  "title": "MomoyamaHaikagura",
+  "index": "37",
+  "framesOrder": [
+    "00047e5a",
+    "00047e3a",
+    "00047e35",
+    "00047e2e",
+    "00047e32",
+    "00047e55",
+    "00047e37",
+    "00047e34",
+    "00047e2a",
+    "00047e3b"
+  ],
+  "textOrder": [
+    "00047e3f",
+    "00047e49",
+    "00047e56",
+    "00047e36",
+    "00047e3d",
+    "00047e41",
+    "00047e4b",
+    "00047e23",
+    "00047e44",
+    "00047e31",
+    "00047e50",
+    "00047e54",
+    "00047e33",
+    "00047e4d",
+    "00047e30"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00047e5a",
+        "textsInFrame": [
+          "00047e3f",
+          "00047e49"
+        ]
+      },
+      {
+        "frameId": "00047e3a",
+        "textsInFrame": [
+          "00047e56",
+          "00047e36",
+          "00047e3d"
+        ]
+      },
+      {
+        "frameId": "00047e35",
+        "textsInFrame": [
+          "00047e41",
+          "00047e4b"
+        ]
+      },
+      {
+        "frameId": "00047e2e",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00047e32",
+        "textsInFrame": [
+          "00047e23",
+          "00047e44"
+        ]
+      },
+      {
+        "frameId": "00047e55",
+        "textsInFrame": [
+          "00047e31",
+          "00047e50"
+        ]
+      },
+      {
+        "frameId": "00047e37",
+        "textsInFrame": [
+          "00047e54"
+        ]
+      },
+      {
+        "frameId": "00047e34",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00047e2a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00047e3b",
+        "textsInFrame": [
+          "00047e33",
+          "00047e4d",
+          "00047e30"
+        ]
+      }
+    ]
+  }
+}

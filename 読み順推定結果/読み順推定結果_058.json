@@ -1,0 +1,96 @@
+{
+  "title": "SyabondamaKieta",
+  "index": "45",
+  "framesOrder": [
+    "00066efe",
+    "00066f15",
+    "00066f24",
+    "00066f1c",
+    "00066f14",
+    "00066f0d",
+    "00066f08",
+    "00066f09",
+    "00066f1d",
+    "00066f1b",
+    "00066f2b"
+  ],
+  "textOrder": [
+    "00066f1f",
+    "00066f11",
+    "00066eff",
+    "00066f1a",
+    "00066f0a",
+    "00066ef9",
+    "00066f25",
+    "00066f13",
+    "00066f05",
+    "00066f06",
+    "00066f1e"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00066efe",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00066f15",
+        "textsInFrame": [
+          "00066f1f"
+        ]
+      },
+      {
+        "frameId": "00066f24",
+        "textsInFrame": [
+          "00066f11",
+          "00066eff"
+        ]
+      },
+      {
+        "frameId": "00066f1c",
+        "textsInFrame": [
+          "00066f1a"
+        ]
+      },
+      {
+        "frameId": "00066f14",
+        "textsInFrame": [
+          "00066f0a",
+          "00066ef9"
+        ]
+      },
+      {
+        "frameId": "00066f0d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00066f08",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00066f09",
+        "textsInFrame": [
+          "00066f25",
+          "00066f13"
+        ]
+      },
+      {
+        "frameId": "00066f1d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00066f1b",
+        "textsInFrame": [
+          "00066f05"
+        ]
+      },
+      {
+        "frameId": "00066f2b",
+        "textsInFrame": [
+          "00066f06",
+          "00066f1e"
+        ]
+      }
+    ]
+  }
+}

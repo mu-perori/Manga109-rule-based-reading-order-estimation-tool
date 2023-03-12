@@ -1,0 +1,94 @@
+{
+  "title": "Count3DeKimeteAgeru",
+  "index": "60",
+  "framesOrder": [
+    "00010a65",
+    "00010a58",
+    "00010a54",
+    "00010a3f",
+    "00010a48",
+    "00010a4a",
+    "00010a59",
+    "00010a67",
+    "00010a61",
+    "00010a62"
+  ],
+  "textOrder": [
+    "00010a5f",
+    "00010a4d",
+    "00010a5b",
+    "00010a66",
+    "00010a40",
+    "00010a50",
+    "00010a63",
+    "00010a5e",
+    "00010a44",
+    "00010a52",
+    "00010a43",
+    "00010a4b"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00010a65",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00010a58",
+        "textsInFrame": [
+          "00010a5f",
+          "00010a4d"
+        ]
+      },
+      {
+        "frameId": "00010a54",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00010a3f",
+        "textsInFrame": [
+          "00010a5b"
+        ]
+      },
+      {
+        "frameId": "00010a48",
+        "textsInFrame": [
+          "00010a66",
+          "00010a40"
+        ]
+      },
+      {
+        "frameId": "00010a4a",
+        "textsInFrame": [
+          "00010a50"
+        ]
+      },
+      {
+        "frameId": "00010a59",
+        "textsInFrame": [
+          "00010a63"
+        ]
+      },
+      {
+        "frameId": "00010a67",
+        "textsInFrame": [
+          "00010a5e"
+        ]
+      },
+      {
+        "frameId": "00010a61",
+        "textsInFrame": [
+          "00010a44",
+          "00010a52"
+        ]
+      },
+      {
+        "frameId": "00010a62",
+        "textsInFrame": [
+          "00010a43",
+          "00010a4b"
+        ]
+      }
+    ]
+  }
+}

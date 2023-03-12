@@ -1,0 +1,87 @@
+{
+  "title": "YukiNoFuruMachi",
+  "index": "83",
+  "framesOrder": [
+    "0007f9df",
+    "0007f9d5",
+    "0007f9dc",
+    "0007f9de",
+    "0007f9c3",
+    "0007f9cc",
+    "0007f9e3",
+    "0007f9e4",
+    "0007f9e0"
+  ],
+  "textOrder": [
+    "0007f9d3",
+    "0007f9db",
+    "0007f9ca",
+    "0007f9cf",
+    "0007f9cb",
+    "0007f9e1",
+    "0007f9da",
+    "0007f9d0",
+    "0007f9d4",
+    "0007f9dd",
+    "0007f9d6"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0007f9df",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0007f9d5",
+        "textsInFrame": [
+          "0007f9d3",
+          "0007f9db"
+        ]
+      },
+      {
+        "frameId": "0007f9dc",
+        "textsInFrame": [
+          "0007f9ca"
+        ]
+      },
+      {
+        "frameId": "0007f9de",
+        "textsInFrame": [
+          "0007f9cf",
+          "0007f9cb"
+        ]
+      },
+      {
+        "frameId": "0007f9c3",
+        "textsInFrame": [
+          "0007f9e1",
+          "0007f9da"
+        ]
+      },
+      {
+        "frameId": "0007f9cc",
+        "textsInFrame": [
+          "0007f9d0"
+        ]
+      },
+      {
+        "frameId": "0007f9e3",
+        "textsInFrame": [
+          "0007f9d4"
+        ]
+      },
+      {
+        "frameId": "0007f9e4",
+        "textsInFrame": [
+          "0007f9dd"
+        ]
+      },
+      {
+        "frameId": "0007f9e0",
+        "textsInFrame": [
+          "0007f9d6"
+        ]
+      }
+    ]
+  }
+}

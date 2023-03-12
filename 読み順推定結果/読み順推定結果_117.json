@@ -1,0 +1,89 @@
+{
+  "title": "PikaruGenkiDesu",
+  "index": "21",
+  "framesOrder": [
+    "0005304a",
+    "00053068",
+    "00053075",
+    "00053052",
+    "0005305b",
+    "0005304c",
+    "00053043",
+    "00053053",
+    "00053074",
+    "0005303d",
+    "0005304d"
+  ],
+  "textOrder": [
+    "00053061",
+    "00053056",
+    "00053058",
+    "00053040",
+    "00053049",
+    "0005304b",
+    "0005306d",
+    "00053041"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0005304a",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00053068",
+        "textsInFrame": [
+          "00053061",
+          "00053056"
+        ]
+      },
+      {
+        "frameId": "00053075",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00053052",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0005305b",
+        "textsInFrame": [
+          "00053058"
+        ]
+      },
+      {
+        "frameId": "0005304c",
+        "textsInFrame": [
+          "00053040"
+        ]
+      },
+      {
+        "frameId": "00053043",
+        "textsInFrame": [
+          "00053049",
+          "0005304b"
+        ]
+      },
+      {
+        "frameId": "00053053",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00053074",
+        "textsInFrame": [
+          "0005306d"
+        ]
+      },
+      {
+        "frameId": "0005303d",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0005304d",
+        "textsInFrame": [
+          "00053041"
+        ]
+      }
+    ]
+  }
+}

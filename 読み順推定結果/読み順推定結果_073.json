@@ -1,0 +1,90 @@
+{
+  "title": "TaiyouNiSmash",
+  "index": "40",
+  "framesOrder": [
+    "00067d22",
+    "00067d2a",
+    "00067d2e",
+    "00067d24",
+    "00067d16",
+    "00067d1b",
+    "00067d23",
+    "00067d25",
+    "00067d1f",
+    "00067d12",
+    "00067d28"
+  ],
+  "textOrder": [
+    "00067d1e",
+    "00067d36",
+    "00067d15",
+    "00067d13",
+    "00067d38",
+    "00067d1a",
+    "00067d27",
+    "00067d14"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00067d22",
+        "textsInFrame": [
+          "00067d1e"
+        ]
+      },
+      {
+        "frameId": "00067d2a",
+        "textsInFrame": [
+          "00067d36"
+        ]
+      },
+      {
+        "frameId": "00067d2e",
+        "textsInFrame": [
+          "00067d15",
+          "00067d13"
+        ]
+      },
+      {
+        "frameId": "00067d24",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00067d16",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00067d1b",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00067d23",
+        "textsInFrame": [
+          "00067d38"
+        ]
+      },
+      {
+        "frameId": "00067d25",
+        "textsInFrame": [
+          "00067d1a"
+        ]
+      },
+      {
+        "frameId": "00067d1f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00067d12",
+        "textsInFrame": [
+          "00067d27"
+        ]
+      },
+      {
+        "frameId": "00067d28",
+        "textsInFrame": [
+          "00067d14"
+        ]
+      }
+    ]
+  }
+}

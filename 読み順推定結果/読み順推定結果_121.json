@@ -1,0 +1,83 @@
+{
+  "title": "ToutaMairimasu",
+  "index": "99",
+  "framesOrder": [
+    "000715be",
+    "000715ba",
+    "000715bf",
+    "000715ad",
+    "000715a7",
+    "000715b2",
+    "000715a3",
+    "000715c0",
+    "000715bc"
+  ],
+  "textOrder": [
+    "0007159f",
+    "000715c4",
+    "000715b1",
+    "0007159d",
+    "0007159a",
+    "000715a9",
+    "000715c2",
+    "000715b3",
+    "000715a2"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000715be",
+        "textsInFrame": [
+          "0007159f"
+        ]
+      },
+      {
+        "frameId": "000715ba",
+        "textsInFrame": [
+          "000715c4"
+        ]
+      },
+      {
+        "frameId": "000715bf",
+        "textsInFrame": [
+          "000715b1"
+        ]
+      },
+      {
+        "frameId": "000715ad",
+        "textsInFrame": [
+          "0007159d"
+        ]
+      },
+      {
+        "frameId": "000715a7",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000715b2",
+        "textsInFrame": [
+          "0007159a"
+        ]
+      },
+      {
+        "frameId": "000715a3",
+        "textsInFrame": [
+          "000715a9"
+        ]
+      },
+      {
+        "frameId": "000715c0",
+        "textsInFrame": [
+          "000715c2"
+        ]
+      },
+      {
+        "frameId": "000715bc",
+        "textsInFrame": [
+          "000715b3",
+          "000715a2"
+        ]
+      }
+    ]
+  }
+}

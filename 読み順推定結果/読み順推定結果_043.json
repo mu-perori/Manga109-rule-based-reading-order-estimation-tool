@@ -1,0 +1,86 @@
+{
+  "title": "Nekodama",
+  "index": "6",
+  "framesOrder": [
+    "0004a1d6",
+    "0004a1f8",
+    "0004a1d4",
+    "0004a1f5",
+    "0004a1eb",
+    "0004a1de",
+    "0004a1d3",
+    "0004a1ef",
+    "0004a1e2",
+    "0004a1ed"
+  ],
+  "textOrder": [
+    "0004a1d5",
+    "0004a1f2",
+    "0004a1fa",
+    "0004a1dd",
+    "0004a1e7",
+    "0004a1e1",
+    "0004a1e3",
+    "0004a1f4",
+    "0004a1ea"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0004a1d6",
+        "textsInFrame": [
+          "0004a1d5"
+        ]
+      },
+      {
+        "frameId": "0004a1f8",
+        "textsInFrame": [
+          "0004a1f2",
+          "0004a1fa"
+        ]
+      },
+      {
+        "frameId": "0004a1d4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004a1f5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004a1eb",
+        "textsInFrame": [
+          "0004a1dd",
+          "0004a1e7"
+        ]
+      },
+      {
+        "frameId": "0004a1de",
+        "textsInFrame": [
+          "0004a1e1",
+          "0004a1e3"
+        ]
+      },
+      {
+        "frameId": "0004a1d3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0004a1ef",
+        "textsInFrame": [
+          "0004a1f4"
+        ]
+      },
+      {
+        "frameId": "0004a1e2",
+        "textsInFrame": [
+          "0004a1ea"
+        ]
+      },
+      {
+        "frameId": "0004a1ed",
+        "textsInFrame": []
+      }
+    ]
+  }
+}

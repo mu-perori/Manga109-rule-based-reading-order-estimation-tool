@@ -1,0 +1,135 @@
+{
+  "title": "JijiBabaFight",
+  "index": "32",
+  "framesOrder": [
+    "0002b995",
+    "0002b9ad",
+    "0002b9af",
+    "0002b997",
+    "0002b97a",
+    "0002b970",
+    "0002b98d",
+    "0002b9b8",
+    "0002b990",
+    "0002b981",
+    "0002b9b7",
+    "0002b9a3",
+    "0002b998"
+  ],
+  "textOrder": [
+    "0002b9bc",
+    "0002b994",
+    "0002b992",
+    "0002b97c",
+    "0002b9c2",
+    "0002b99d",
+    "0002b988",
+    "0002b97b",
+    "0002b97d",
+    "0002b9c1",
+    "0002b9b0",
+    "0002b9aa",
+    "0002b993",
+    "0002b99a",
+    "0002b9ba",
+    "0002b9a6",
+    "0002b9ab",
+    "0002b974",
+    "0002b982",
+    "0002b975",
+    "0002b98a",
+    "0002b971",
+    "0002b9a8"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0002b995",
+        "textsInFrame": [
+          "0002b9bc",
+          "0002b994"
+        ]
+      },
+      {
+        "frameId": "0002b9ad",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0002b9af",
+        "textsInFrame": [
+          "0002b992",
+          "0002b97c"
+        ]
+      },
+      {
+        "frameId": "0002b997",
+        "textsInFrame": [
+          "0002b9c2"
+        ]
+      },
+      {
+        "frameId": "0002b97a",
+        "textsInFrame": [
+          "0002b99d"
+        ]
+      },
+      {
+        "frameId": "0002b970",
+        "textsInFrame": [
+          "0002b988"
+        ]
+      },
+      {
+        "frameId": "0002b98d",
+        "textsInFrame": [
+          "0002b97b",
+          "0002b97d",
+          "0002b9c1"
+        ]
+      },
+      {
+        "frameId": "0002b9b8",
+        "textsInFrame": [
+          "0002b9b0",
+          "0002b9aa",
+          "0002b993"
+        ]
+      },
+      {
+        "frameId": "0002b990",
+        "textsInFrame": [
+          "0002b99a",
+          "0002b9ba"
+        ]
+      },
+      {
+        "frameId": "0002b981",
+        "textsInFrame": [
+          "0002b9a6",
+          "0002b9ab",
+          "0002b974"
+        ]
+      },
+      {
+        "frameId": "0002b9b7",
+        "textsInFrame": [
+          "0002b982",
+          "0002b975"
+        ]
+      },
+      {
+        "frameId": "0002b9a3",
+        "textsInFrame": [
+          "0002b98a",
+          "0002b971"
+        ]
+      },
+      {
+        "frameId": "0002b998",
+        "textsInFrame": [
+          "0002b9a8"
+        ]
+      }
+    ]
+  }
+}

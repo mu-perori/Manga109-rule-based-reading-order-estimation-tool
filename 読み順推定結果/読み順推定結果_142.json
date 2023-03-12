@@ -1,0 +1,106 @@
+{
+  "title": "AosugiruHaru",
+  "index": "6",
+  "framesOrder": [
+    "000041b2",
+    "000041ae",
+    "000041a3",
+    "0000419a",
+    "000041b0",
+    "00004190",
+    "00004191",
+    "0000419c",
+    "000041b4",
+    "000041ac",
+    "000041ad",
+    "00004198",
+    "000041af"
+  ],
+  "textOrder": [
+    "000041b1",
+    "00004197",
+    "000041a8",
+    "00004193",
+    "0000419f",
+    "000041a7",
+    "000041a6",
+    "0000419b",
+    "0000419d",
+    "000041b5",
+    "00004192"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000041b2",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000041ae",
+        "textsInFrame": [
+          "000041b1"
+        ]
+      },
+      {
+        "frameId": "000041a3",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000419a",
+        "textsInFrame": [
+          "00004197"
+        ]
+      },
+      {
+        "frameId": "000041b0",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00004190",
+        "textsInFrame": [
+          "000041a8",
+          "00004193"
+        ]
+      },
+      {
+        "frameId": "00004191",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0000419c",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000041b4",
+        "textsInFrame": [
+          "0000419f",
+          "000041a7"
+        ]
+      },
+      {
+        "frameId": "000041ac",
+        "textsInFrame": [
+          "000041a6",
+          "0000419b"
+        ]
+      },
+      {
+        "frameId": "000041ad",
+        "textsInFrame": [
+          "0000419d",
+          "000041b5"
+        ]
+      },
+      {
+        "frameId": "00004198",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000041af",
+        "textsInFrame": [
+          "00004192"
+        ]
+      }
+    ]
+  }
+}
